@@ -3452,3 +3452,6 @@ https://vulncheck.com/blog/real-world-cve-2023-43261
 https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-webui-privesc-j22SaA4z
 https://www.microsoft.com/en-us/security/blog/2023/10/18/multiple-north-korean-threat-actors-exploiting-the-teamcity-cve-2023-42793-vulnerability/
 https://github.com/pr0xylife/IcedID/blob/8dd1e218460db4f750d955b4c65b2f918a1db906/icedID_09.28.2023.txt
+https://www.virustotal.com/gui/file/72f1a5476a845ea02344c9b7edecfe399f64b52409229edaf856fcb9535e3242
+https://www.virustotal.com/gui/file/d72af640b71b8e3eca3eba660dd7c7f029ff8852bcacaa379e7b6c57cf4d9b44
+https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification
