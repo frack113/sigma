@@ -3462,3 +3462,13 @@ https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provid
 https://community.f5.com/t5/technical-forum/running-bash-commands-via-rest-api/td-p/272516
 https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification
 https://github.com/AliBrTab/CVE-2023-46747-POC/tree/main
+https://www.ired.team/offensive-security/persistence/t1128-netsh-helper-dll
+https://www.fortinet.com/blog/threat-research/konni-campaign-distributed-via-malicious-document
+https://ngrok.com/blog-post/new-ngrok-domains
+https://www.virustotal.com/gui/file/d72af640b71b8e3eca3eba660dd7c7f029ff8852bcacaa379e7b6c57cf4d9b44
+https://confluence.atlassian.com/security/cve-2023-22518-improper-authorization-vulnerability-in-confluence-data-center-and-server-1311473907.html
+https://attackerkb.com/topics/2faW2CxJgQ/cve-2023-4966
+https://www.malwarebytes.com/blog/detections/pum-optional-nodispcpl
+https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftauthorization
+https://lolbas-project.github.io/lolbas/OtherMSBinaries/Msxsl/
+https://web.archive.org/web/20160928212230/https://www.adaptforward.com/2016/09/using-netshell-to-execute-evil-dlls-and-persist-on-a-host/
