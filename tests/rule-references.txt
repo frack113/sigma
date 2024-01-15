@@ -3494,3 +3494,15 @@ https://craigclouditpro.wordpress.com/2020/03/04/hunting-malicious-windows-defen
 https://github.com/nathan31337/Splunk-RCE-poc/
 http://www.solomonson.com/posts/2010-07-09-reading-eventviewer-command-line/
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-eventlog?view=powershell-5.1
+https://github.com/poweradminllc/PAExec
+https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.WindowsDesktop::Wallpaper
+https://learn.microsoft.com/en-us/dotnet/core/runtime-config/debugging-profiling
+https://www.rnbo.gov.ua/files/2023_YEAR/CYBERCENTER/november/APT29%20attacks%20Embassies%20using%20CVE-2023-38831%20-%20report%20en.pdf
+https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e
+https://www.welivesecurity.com/2017/10/20/osx-proton-supply-chain-attack-elmedia/
+https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html
+https://www.trendmicro.com/en_ph/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
+https://www.linkedin.com/pulse/guntior-story-advanced-bootkit-doesnt-rely-windows-disk-baranov-wue8e/
+https://ghoulsec.medium.com/misc-series-4-forensics-on-edrsilencer-events-428b20b3f983
+https://unit42.paloaltonetworks.com/chromeloader-malware/
+https://github.com/projectHULK/AD_Recon/blob/dde2daba9b3393a9388cbebda87068972cc0bd3b/SecurityAssessment.ps1#L2699
