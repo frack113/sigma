@@ -3542,3 +3542,17 @@ https://redcanary.com/blog/gootloader/
 https://github.com/pr0xylife/Pikabot/blob/7f7723a74ca325ec54c6e61e076acce9a4b20538/Pikabot_22.12.2023.txt
 https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon#event-id-20-wmievent-wmieventconsumer-activity-detected
 https://web.archive.org/web/20200219102749/https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492186586.pdf
+https://reconshell.com/winpwn-tool-for-internal-windows-pentesting-and-ad-security/
+https://www.publicnow.com/view/EB87DB49C654D9B63995FAD4C9DE3D3CC4F6C3ED?1671634841
+https://x.com/_st0pp3r_/status/1742203752361128162?s=20
+https://www.malwarebytes.com/blog/detections/pup-optional-onelaunch-silentcf
+https://github.com/fortra/nanodump
+https://support.citrix.com/article/CTX579459/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve20234966-and-cve20234967
+https://ss64.com/osx/sw_vers.html
+https://www.fortinet.com/blog/threat-research/enter-the-darkgate-new-cryptocurrency-mining-and-ransomware-campaign
+https://support.atlassian.com/security-and-access-policies/docs/export-user-accounts
+https://ghoulsec.medium.com/misc-series-4-forensics-on-edrsilencer-events-428b20b3f983
+https://www.x86matthew.com/view_post?id=create_svc_rpc
+https://github.com/pr0xylife/Pikabot/blob/7f7723a74ca325ec54c6e61e076acce9a4b20538/Pikabot_06.12.2023.txt
+https://www.crowdstrike.com/blog/windows-restart-manager-part-1/
+https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/config-mgmt/configuration/15-sy/config-mgmt-15-sy-book/cm-config-diff.html
