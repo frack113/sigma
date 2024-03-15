@@ -3556,3 +3556,16 @@ https://blog.redteam.pl/2020/06/black-kingdom-ransomware.html
 https://www.manageengine.com/products/desktop-central/os-imaging-deployment/media-is-write-protected.html
 https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4706
 https://web.archive.org/web/20171113231705/https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks
+https://www.cisco.com/en/US/docs/ios/security/command/reference/sec_a2.pdf
+https://tria.ge/231212-r1bpgaefar/behavioral2
+https://lolbas-project.github.io/lolbas/Binaries/Wlrmdr/
+https://github.com/redcanaryco/atomic-red-team/blob/02c7d02fe1f1feb0fc7944550408ea8224273994/atomics/T1112/T1112.md#atomic-test-63---disable-remote-desktop-anti-alias-setting-through-registry
+https://support.google.com/a/answer/9261439
+https://twitter.com/ReneFreingruber/status/1172244989335810049
+https://github.com/pr0xylife/Pikabot/blob/7f7723a74ca325ec54c6e61e076acce9a4b20538/Pikabot_06.12.2023.txt
+https://tria.ge/240226-fhbe7sdc39/behavioral1
+https://www.welivesecurity.com/2017/10/20/osx-proton-supply-chain-attack-elmedia/
+https://www.assetnote.io/resources/research/citrix-bleed-leaking-session-tokens-with-cve-2023-4966
+https://support.citrix.com/article/CTX579459/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve20234966-and-cve20234967
+https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/kdc-event-16-27-des-encryption-disabled
+https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/cyberabwehr/2024-02-19-joint-cyber-security-advisory-englisch.pdf?__blob=publicationFile&v=2
