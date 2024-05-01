@@ -3601,3 +3601,14 @@ https://github.com/fortra/nanodump
 https://www.malwarebytes.com/blog/detections/pup-optional-onelaunch-silentcf
 https://learn.microsoft.com/en-us/dotnet/api/system.net.webclient.downloadfile?view=net-8.0
 https://www.group-ib.com/blog/hunting-for-ttps-with-prefetch-files/
+https://confluence.atlassian.com/bitbucketserver/secret-scanning-1157471613.html
+https://www.sans.org/blog/protecting-privileged-domain-accounts-lm-hashes-the-good-the-bad-and-the-ugly/
+https://decoded.avast.io/janvojtesek/raspberry-robins-roshtyak-a-little-lesson-in-trickery/
+https://github.com/xuanxuan0/DripLoader
+https://github.com/pr0xylife/Pikabot/blob/main/Pikabot_22.12.2023.txt
+https://support.atlassian.com/security-and-access-policies/docs/export-user-accounts
+https://lolbas-project.github.io/lolbas/Binaries/Tar/
+https://www.gradenegger.eu/en/details-of-the-event-with-id-53-of-the-source-microsoft-windows-certificationauthority/
+https://strontic.github.io/xcyclopedia/library/mode.com-59D1ED51ACB8C3D50F1306FD75F20E99.html
+https://support.citrix.com/article/CTX579459/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve20234966-and-cve20234967
+https://f5-sdk.readthedocs.io/en/latest/apidoc/f5.bigip.tm.util.html#module-f5.bigip.tm.util.bash
