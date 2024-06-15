@@ -3646,3 +3646,17 @@ https://csirt-cti.net/2024/02/01/stately-taurus-continued-new-information-on-cyb
 https://www.linkedin.com/pulse/exploit-available-dangerous-ms-office-rce-vuln-called-thebenygreen-
 https://learn.microsoft.com/en-us/windows/win32/intl/code-page-identifiers
 https://web.archive.org/web/20200929062532/https://blog.menasec.net/2019/02/threat-hunting-rdp-hijacking-via.html
+https://support.google.com/a/answer/9261439
+https://blog.appsecco.com/kubernetes-namespace-breakout-using-insecure-host-path-volume-part-1-b382f2a6e216
+https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage
+https://github.com/nasbench/Misc-Research/blob/b20da2336de0f342d31ef4794959d28c8d3ba5ba/ETW/Microsoft-Windows-Kernel-General.md
+https://github.com/gentilkiwi/mimikatz
+https://forensicitguy.github.io/xloader-formbook-velvetsweatshop-spreadsheet/
+https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/
+https://microsoft.github.io/Threat-Matrix-for-Kubernetes/techniques/Sidecar%20Injection/
+https://bazaar.abuse.ch/browse/signature/RaspberryRobin/
+https://app.any.run/tasks/64043a79-165f-4052-bcba-e6e49f847ec1/
+https://github.com/EvotecIT/TheDashboard/blob/481a9ce8f82f2fd55fe65220ee6486bae6df0c9d/Examples/RunReports/PingCastle.ps1
+https://www.connectwise.com/company/trust/security-bulletins/connectwise-screenconnect-23.9.8
+https://www.trendmicro.com/en_no/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html
+https://dear-territory-023.notion.site/WebDav-Share-Testing-e4950fa0c00149c3aa430d779b9b1d0f?pvs=4
