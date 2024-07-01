@@ -3660,3 +3660,15 @@ https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks/blob/7b8935fe4c82cb64d
 https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e
 https://www.virustotal.com/gui/file/1c547a064494a35d6b5e6b459de183ab2720a22725e082bed6f6629211f7abc1/behavior
 https://web.archive.org/web/20160928212230/https://www.adaptforward.com/2016/09/using-netshell-to-execute-evil-dlls-and-persist-on-a-host/
+https://blackpointcyber.com/resources/blog/breaking-through-the-screen/
+https://twitter.com/MsftSecIntel/status/1737895710169628824
+https://app.any.run/tasks/69c5abaa-92ad-45ba-8c53-c11e23e05d04/
+https://us-cert.cisa.gov/ncas/alerts/aa21-008a
+https://developers.google.com/admin-sdk/reports/v1/appendix/activity/admin-application-settings
+https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/push-protection-for-repositories-and-organizations
+https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/b/lockbit-attempts-to-stay-afloat-with-a-new-version/technical-appendix-lockbit-ng-dev-analysis.pdf
+https://www.myantispyware.com/2020/12/14/how-to-uninstall-onelaunch-browser-removal-guide/
+https://twitter.com/Max_Mal_/status/1775222576639291859
+https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-2024-3400/
+https://www.loobins.io/binaries/tmutil/
+https://mp.weixin.qq.com/s/wUoBy7ZiqJL2CUOMC-8Wdg
