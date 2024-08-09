@@ -8,6 +8,7 @@ references:
     - https://isc.sans.edu/diary/IPFS%20phishing%20and%20the%20need%20for%20correctly%20set%20HTTP%20security%20headers/29638
 author: Gavin Knapp
 date: 2023/03/16
+modified: 2024/08/09
 tags:
     - attack.credential_access
     - attack.t1056
@@ -15,7 +16,7 @@ logsource:
     category: proxy
 detection:
     selection:
-        cs-uri|re: '(?i)(ipfs\.io/|ipfs\.io\s).+\..+@.+\.[a-z]+'
+        cs-uri|re|i: '(ipfs\.io/|ipfs\.io\s).+\..+@.+\.[a-z]+'
     condition: selection
 falsepositives:
     - Legitimate use of IPFS being used in the organisation. However the cs-uri regex looking for a user email will likely negate this.
