@@ -60,3 +60,12 @@ exclusions:
     23b71bc5-953e-4971-be4c-c896cda73fc2: specific_instead_of_generic_logsource
     8ac03a65-6c84-4116-acad-dc1558ff7a77: specific_instead_of_generic_logsource
     c3e5c1b1-45e9-4632-b242-27939c170239: specific_instead_of_generic_logsource
+    # SigmaHQ validators 0.7.1
+    3f3f3506-1895-401b-9cc3-e86b16e630d0: sigmahq_categori_providername
+    7dc2dedd-7603-461a-bc13-15803d132355: sigmahq_categori_providername
+config:
+    filename_length:
+        min_size: 10
+        max_size: 90
+    description_length:
+        min_length: 16
