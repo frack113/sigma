@@ -29,5 +29,7 @@ jobs:
           pip install pySigma-validators-sigmahq==0.7.0
       - name: Test Sigma Rule Syntax
         run: |
-          sigma analyze attack count ./other/rules.json rules 
+          sigma analyze attack count ./other/rules.json rules
+          sigma analyze attack count ./other/rules-emerging-threats.json rules-emerging-threats
+          
 
