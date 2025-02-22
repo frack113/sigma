@@ -1,0 +1,26 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: Sigma Rule MITRE
+
+on:
+  push:
+    branches:
+      - "mitre"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  test-sigma:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Install dependencies
+      run: |
+        pip install pysigma
+        pip install sigma-cli
+        pip install pySigma-validators-sigmahq==0.7.0
+    - name: Test Sigma Rule Syntax
+      run: |
+        sigma analyze attack count ./other/rules.json rules 
+
