@@ -4164,3 +4164,17 @@ https://symantec-enterprise-blogs.security.com/threat-intelligence/harvester-new
 https://www.sans.org/blog/defending-against-scattered-spider-and-the-com-with-cybercrime-intelligence/
 https://www.spamhaus.org/reputation-statistics/cctlds/domains/
 https://web.archive.org/web/20230329170326/https://blog.menasec.net/2019/02/threat-hunting-21-procdump-or-taskmgr.html
+https://github.com/pr0xylife/Pikabot/blob/fc58126127adf0f65e78f4eec59675523f48f086/Pikabot_22.12.2023.txt
+https://www.proofpoint.com/us/blog/threat-insight/phish-china-aligned-espionage-actors-ramp-up-taiwan-semiconductor-targeting
+https://x.com/cyberfeeddigest/status/1887041526397587859
+https://learn.microsoft.com/en-us/visualstudio/debugger/debug-using-the-just-in-time-debugger?view=vs-2019
+https://www.virustotal.com/gui/file/d2a4f52a9923336f119a52e531bbb1e66f18322fd8efa9af1a64b94f4d36dc97
+https://cloud.google.com/blog/topics/threat-intelligence/alphv-ransomware-backup/
+https://www.huntress.com/blog/attacking-mssql-servers
+https://pentestlab.blog/2022/03/21/unconstrained-delegation/
+https://thecyberexpress.com/ukraine-hit-by-meshagent-malware-campaign/
+https://learn.microsoft.com/en-us/windows/package-manager/winget/install#local-install
+https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.eventlog.clear
+https://gtfobins.github.io/gtfobins/gawk/#shell
+https://web.archive.org/web/20160727113019/https://answers.microsoft.com/en-us/protect/forum/mse-protect_scanning/microsoft-antimalware-has-removed-history-of/f15af6c9-01a9-4065-8c6c-3f2bdc7de45e
+https://blog.malwarebytes.com/malwarebytes-news/2021/02/lazyscripter-from-empire-to-double-rat/
