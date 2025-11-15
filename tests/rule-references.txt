@@ -55,6 +55,7 @@ https://admx.help/?Category=Office2016&Policy=office16.Office.Microsoft.Policies
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.ControlPanelDisplay::CPL_Personalization_NoDesktopBackgroundUI
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_IncludeUnspecifiedLocalSites
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_ProxyByPass
+https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_UNCAsIntranet
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.PowerShell::EnableScripts
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.WindowsDesktop::Wallpaper
 https://admx.help/?Category=Windows_7_2008R2&Policy=Microsoft.Policies.InternetCommunicationManagement::EventViewer_DisableLinks
@@ -175,6 +176,7 @@ https://awakesecurity.com/blog/threat-hunting-for-paexec/
 https://bad-jubies.github.io/RCE-NOW-WHAT/
 https://badoption.eu/blog/2023/01/31/code_c2.html
 https://bazaar.abuse.ch/browse/signature/RaspberryRobin/
+https://bazaar.abuse.ch/sample/5cb9876681f78d3ee8a01a5aaa5d38b05ec81edc48b09e3865b75c49a2187831/
 https://bazaar.abuse.ch/sample/64e6605496919cd76554915cbed88e56fdec10dec6523918a631754664b8c8d3/
 https://bazaar.abuse.ch/sample/6f3aa9362d72e806490a8abce245331030d1ab5ac77e400dd475748236a6cc81/
 https://bazaar.abuse.ch/sample/8c75f8e94486f5bbf461505823f5779f328c5b37f1387c18791e0c21f3fdd576/
@@ -324,6 +326,7 @@ https://bunnyinside.com/?term=f71e8cb9c76a
 https://businessinsights.bitdefender.com/deep-dive-into-a-backdoordiplomacy-attack-a-study-of-an-attackers-toolkit
 https://car.mitre.org/wiki/CAR-2013-05-002
 https://car.mitre.org/wiki/CAR-2016-04-005
+https://catalyst.prodaft.com/public/report/inside-the-latest-espionage-campaign-of-nebulous-mantis
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/service_registry_permissions_weakness_check/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/task_scheduling/
 https://chromeenterprise.google/policies/?policy=DnsOverHttpsMode
@@ -738,6 +741,7 @@ https://eqllib.readthedocs.io/en/latest/analytics/fcdb99c2-ac3c-4bde-b664-4b3363
 https://eqllib.readthedocs.io/en/latest/analytics/fd9b987a-1101-4ed3-bda6-a70300eaf57e.html
 https://ermetic.com/blog/aws/aws-ec2-imds-what-you-need-to-know/
 https://evasions.checkpoint.com/techniques/macos.html
+https://f5-sdk.readthedocs.io/en/latest/apidoc/f5.bigip.tm.util.html#module-f5.bigip.tm.util.bash
 https://f5.pm/go-59627.html
 https://fabian-voith.de/2020/06/25/sysmon-v11-1-reads-alternate-data-streams/
 https://fatrodzianko.com/2020/02/15/dll-side-loading-appverif-exe/
@@ -908,6 +912,7 @@ https://github.com/dotnet/runtime/blob/7abe42dc1123722ed385218268bb9fe04556e3d3/
 https://github.com/dotnet/runtime/blob/ee2355c801d892f2894b0f7b14a20e6cc50e0e54/docs/design/coreclr/jit/viewing-jit-dumps.md#setting-configuration-variables
 https://github.com/dotnet/runtime/blob/f62e93416a1799aecc6b0947adad55a0d9870732/src/coreclr/src/inc/clrconfigvalues.h#L35-L38
 https://github.com/dotnet/runtime/search?p=1&q=COMPlus_&unscoped_q=COMPlus_
+https://github.com/DrorDvash/CVE-2022-22954_VMware_PoC
 https://github.com/dsnezhkov/TruffleSnout
 https://github.com/dsnezhkov/TruffleSnout/blob/master/TruffleSnout/Docs/USAGE.md
 https://github.com/EddieIvan01/iox
@@ -976,6 +981,7 @@ https://github.com/fortra/impacket
 https://github.com/fortra/impacket/blob/33058eb2fde6976ea62e04bc7d6b629d64d44712/examples/smbexec.py#L286-L296
 https://github.com/fortra/impacket/blob/edef71f17bc1240f9f8c957bbda98662951ac3ec/examples/smbexec.py#L60
 https://github.com/fortra/impacket/blob/f4b848fa27654ca95bc0f4c73dbba8b9c2c9f30a/examples/wmiexec.py
+https://github.com/fortra/impacket/blob/ff8c200fd040b04d3b5ff05449646737f836235d/examples/secretsdump.py
 https://github.com/fortra/nanodump
 https://github.com/FortyNorthSecurity/WMImplant
 https://github.com/fox-it/BloodHound.py/blob/d65eb614831cd30f26028ccb072f5e77ca287e0b/bloodhound/ad/domain.py#L427
@@ -1634,6 +1640,7 @@ https://github.com/topotam/PetitPotam
 https://github.com/topotam/PetitPotam/blob/d83ac8f2dd34654628c17490f99106eb128e7d1e/PetitPotam/PetitPotam.cpp
 https://github.com/trustedsec/SysmonCommunityGuide/blob/adcdfee20999f422b974c8d4149bf4c361237db7/chapters/file-stream-creation-hash.md
 https://github.com/Twigonometry/Cybersecurity-Notes/blob/c875b0f52df7d2c7a870e75e1f0c2679d417931d/Writeups/Hack%20the%20Box/Boxes/Optimum/10%20-%20Website.md
+https://github.com/TwoSevenOneT/EDR-Freeze
 https://github.com/Tylous/ZipExec
 https://github.com/tyranid/DotNetToJScript
 https://github.com/usnistgov/macos_security/blob/932a51f3e819dd3e02ebfcf3ef433cfffafbe28b/rules/os/os_firmware_password_require.yaml
@@ -1693,6 +1700,7 @@ https://github.security.telekom.com/2023/08/darkgate-loader.html
 https://githubmemory.com/repo/FunctFan/JNDIExploit
 https://giuliocomi.blogspot.com/2019/10/abusing-windows-10-narrators-feedback.html
 https://global.ptsecurity.com/analytics/pt-esc-threat-intelligence/darkhotel-a-cluster-of-groups-united-by-common-techniques
+https://globetech.biz/index.php/2023/05/19/evading-edr-by-dll-sideloading-in-csharp/
 https://go.recordedfuture.com/hubfs/reports/mtp-2021-0914.pdf
 https://goo.gl/PsqrhT
 https://googleprojectzero.blogspot.com/2019/08/implant-teardown.html
@@ -1704,9 +1712,11 @@ https://gtfobins.github.io/gtfobins/apt/
 https://gtfobins.github.io/gtfobins/awk/#shell
 https://gtfobins.github.io/gtfobins/c89/#shell
 https://gtfobins.github.io/gtfobins/c99/#shell
+https://gtfobins.github.io/gtfobins/capsh/#shell
 https://gtfobins.github.io/gtfobins/env/#shell
 https://gtfobins.github.io/gtfobins/find/#shell
 https://gtfobins.github.io/gtfobins/flock/#shell
+https://gtfobins.github.io/gtfobins/gcc/#shell
 https://gtfobins.github.io/gtfobins/git/#shell
 https://gtfobins.github.io/gtfobins/mawk/#shell
 https://gtfobins.github.io/gtfobins/nawk/#shell
@@ -1872,6 +1882,7 @@ https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction
 https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction-rules-reference?view=o365-worldwide#block-process-creations-originating-from-psexec-and-wmi-commands
 https://learn.microsoft.com/en-us/defender-endpoint/configure-process-opened-file-exclusions-microsoft-defender-antivirus
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus
+https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5001
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5010
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5012
@@ -2155,6 +2166,7 @@ https://linuxhint.com/uninstall-debian-packages/
 https://linuxhint.com/uninstall_yum_package/
 https://linuxhint.com/view-tomcat-logs-windows/
 https://linuxize.com/post/how-to-delete-group-in-linux/
+https://localtonet.com/documents/supported-tunnels
 https://lolbas-project.github.io
 https://lolbas-project.github.io/lolbas/Binaries/AppInstaller/
 https://lolbas-project.github.io/lolbas/Binaries/Aspnet_Compiler/
@@ -2336,6 +2348,7 @@ https://medium.com/@win3zz/inside-the-router-how-i-accessed-industrial-routers-a
 https://medium.com/falconforce/falconfriday-detecting-active-directory-data-collection-0xff21-c22d1a57494c
 https://medium.com/falconforce/falconfriday-detecting-uac-bypasses-0xff16-86c2a9107abf
 https://medium.com/falconforce/falconfriday-direct-system-calls-and-cobalt-strike-bofs-0xff14-741fa8e1bdd6
+https://medium.com/falconforce/soaphound-tool-to-collect-active-directory-data-via-adws-165aca78288c
 https://medium.com/geekculture/text4shell-exploit-walkthrough-ebc02a01f035
 https://medium.com/mitre-engenuity/att-ck-for-containers-now-available-4c2359654bf1
 https://medium.com/palantir/tampering-with-windows-event-tracing-background-offense-and-defense-4be7ac62ac63
@@ -2362,6 +2375,7 @@ https://mikefrobbins.com/2017/06/15/simple-obfuscation-with-powershell-using-bas
 https://mn3m.info/posts/suid-vs-capabilities/
 https://mobile.twitter.com/0gtweet/status/1564131230941122561
 https://modexp.wordpress.com/2019/08/30/minidumpwritedump-via-com-services-dll/
+https://mp.weixin.qq.com/s/wUoBy7ZiqJL2CUOMC-8Wdg
 https://mp.weixin.qq.com/s/wX9TMXl1KVWwB_k6EZOklw
 https://mp.weixin.qq.com/s?__biz=Mzg3NDU2MTg0Ng==&mid=2247484117&idx=1&sn=2fdab8cbe4b873f8dd8abb35d935d186
 https://mpgn.gitbook.io/crackmapexec/smb-protocol/authentication/checking-credentials-local
@@ -2404,6 +2418,7 @@ https://news.sophos.com/en-us/2022/07/14/blackcat-ransomware-attacks-not-merely-
 https://news.sophos.com/en-us/2022/11/03/family-tree-dll-sideloading-cases-may-be-related/
 https://news.sophos.com/en-us/2023/04/19/aukill-edr-killer-malware-abuses-process-explorer-driver/
 https://news.sophos.com/en-us/2024/06/05/operation-crimson-palace-a-technical-deep-dive
+https://news.sophos.com/en-us/2025/08/26/velociraptor-incident-response-tool-abused-for-remote-access/
 https://newtonpaul.com/analysing-fileless-malware-cobalt-strike-beacon/
 https://ngrok.com/
 https://ngrok.com/docs
@@ -2634,6 +2649,7 @@ https://securelist.com/chafer-used-remexi-malware/89538/
 https://securelist.com/defttorero-tactics-techniques-and-procedures/107610/
 https://securelist.com/faq-the-projectsauron-apt/75533/
 https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/
+https://securelist.com/key-group-ransomware-samples-and-telegram-schemes/114025/
 https://securelist.com/lazarus-covets-covid-19-related-intelligence/99906/
 https://securelist.com/lazarus-on-the-hunt-for-big-game/97757/
 https://securelist.com/locked-out/68960/
@@ -2896,6 +2912,7 @@ https://tria.ge/240226-fhbe7sdc39/behavioral1
 https://tria.ge/240301-rk34sagf5x/behavioral2
 https://tria.ge/240307-1hlldsfe7t/behavioral2/analog?main_event=Registry&op=SetValueKeyInt
 https://trustedsec.com/blog/adexplorer-on-engagements
+https://trustedsec.com/blog/command-line-underdog-wmic-in-action
 https://trustedsec.com/blog/oops-i-udld-it-again
 https://trustedsec.com/blog/specula-turning-outlook-into-a-c2-with-one-registry-change
 https://trustedsec.com/blog/wmi-for-script-kiddies
@@ -4195,6 +4212,7 @@ https://www.zscaler.com/blogs/security-research/technical-analysis-crytox-ransom
 https://www.zscaler.com/blogs/security-research/unintentional-leak-glimpse-attack-vectors-apt37
 https://x.com/_st0pp3r_/status/1742203752361128162?s=20
 https://x.com/cyb3rops/status/1862406110365245506
+https://x.com/cyberfeeddigest/status/1887041526397587859
 https://x.com/russianpanda9xx/status/1940831134759506029
 https://x.com/yarden_shafir/status/1822667605175324787
 https://xmrig.com/docs/miner/command-line-options
