@@ -55,6 +55,7 @@ https://admx.help/?Category=Office2016&Policy=office16.Office.Microsoft.Policies
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.ControlPanelDisplay::CPL_Personalization_NoDesktopBackgroundUI
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_IncludeUnspecifiedLocalSites
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_ProxyByPass
+https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_UNCAsIntranet
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.PowerShell::EnableScripts
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.WindowsDesktop::Wallpaper
 https://admx.help/?Category=Windows_7_2008R2&Policy=Microsoft.Policies.InternetCommunicationManagement::EventViewer_DisableLinks
@@ -325,6 +326,7 @@ https://bunnyinside.com/?term=f71e8cb9c76a
 https://businessinsights.bitdefender.com/deep-dive-into-a-backdoordiplomacy-attack-a-study-of-an-attackers-toolkit
 https://car.mitre.org/wiki/CAR-2013-05-002
 https://car.mitre.org/wiki/CAR-2016-04-005
+https://cardinalops.com/blog/living-off-winrm-abusing-complexity-in-remote-management/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/service_registry_permissions_weakness_check/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/task_scheduling/
 https://chromeenterprise.google/policies/?policy=DnsOverHttpsMode
@@ -355,6 +357,7 @@ https://code.visualstudio.com/docs/remote/tunnels
 https://codewhitesec.blogspot.com/2018/07/lethalhta.html
 https://codewhitesec.blogspot.com/2022/09/attacks-on-sysmon-revisited-sysmonente.html
 https://commandk.dev/blog/guide-to-audit-k8s-secrets-for-compliance/
+https://communities.vmware.com/t5/VMware-Workstation-Pro/VMCI-driver-issues/td-p/2866060
 https://community.broadcom.com/symantecenterprise/communities/community-home/digestviewer/viewthread?MessageKey=6ce94b67-74e1-4333-b16f-000b7fd874f0&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=digestviewer
 https://community.f5.com/t5/technical-forum/icontrolrest-11-5-execute-bash-command/td-p/203029
 https://community.f5.com/t5/technical-forum/running-bash-commands-via-rest-api/td-p/272516
@@ -485,6 +488,7 @@ https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference
 https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners#about-self-hosted-runners
 https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise
+https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#migration
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#private_repository_forking
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#ssh_certificate_authority
 https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/about-secret-scanning
@@ -1281,6 +1285,7 @@ https://github.com/redcanaryco/atomic-red-team/blob/40b77d63808dd4f4eafb83949805
 https://github.com/redcanaryco/atomic-red-team/blob/40b77d63808dd4f4eafb83949805636735a1fd15/atomics/T1562.001/T1562.001.md
 https://github.com/redcanaryco/atomic-red-team/blob/40b77d63808dd4f4eafb83949805636735a1fd15/atomics/T1562.004/T1562.004.md
 https://github.com/redcanaryco/atomic-red-team/blob/40b77d63808dd4f4eafb83949805636735a1fd15/atomics/T1564.002/T1564.002.md
+https://github.com/redcanaryco/atomic-red-team/blob/40b77d63808dd4f4eafb83949805636735a1fd15/atomics/T1564.002/T1564.002.md#atomic-test-3---create-hidden-user-in-registry
 https://github.com/redcanaryco/atomic-red-team/blob/4ae9580a1a8772db87a1b6cdb0d03e5af231e966/atomics/T1137.006/T1137.006.md
 https://github.com/redcanaryco/atomic-red-team/blob/4d6c4e8e23d465af7a2388620cfe3f8c76e16cf0/atomics/T1082/T1082.md
 https://github.com/redcanaryco/atomic-red-team/blob/5360c9d9ffa3b25f6495f7a16e267b719eba2c37/atomics/T1482/T1482.md#atomic-test-2---windows---discover-domain-trusts-with-nltest
@@ -1899,6 +1904,7 @@ https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction
 https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction-rules-reference?view=o365-worldwide#block-process-creations-originating-from-psexec-and-wmi-commands
 https://learn.microsoft.com/en-us/defender-endpoint/configure-process-opened-file-exclusions-microsoft-defender-antivirus
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus
+https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5001
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5010
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5012
@@ -1956,6 +1962,7 @@ https://learn.microsoft.com/en-us/entra/identity/monitoring-health/reference-aud
 https://learn.microsoft.com/en-us/entra/identity/monitoring-health/reference-audit-activities#core-directory
 https://learn.microsoft.com/en-us/graph/api/resources/riskdetection?view=graph-rest-1.0
 https://learn.microsoft.com/en-us/iis/configuration/system.applicationhost/sites/sitedefaults/logfile/
+https://learn.microsoft.com/en-us/iis/configuration/system.webserver/httplogging
 https://learn.microsoft.com/en-us/iis/get-started/introduction-to-iis/iis-modules-overview
 https://learn.microsoft.com/en-us/microsoft-365/compliance/alert-policies?view=o365-worldwide
 https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide
@@ -2110,6 +2117,7 @@ https://learn.microsoft.com/en-us/windows-server/administration/windows-commands
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-recovery
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wevtutil
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/whoami
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/winrs
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wmic
 https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/understand-security-identifiers
 https://learn.microsoft.com/en-us/windows-server/identity/software-restriction-policies/software-restriction-policies
@@ -2405,6 +2413,7 @@ https://mikefrobbins.com/2017/06/15/simple-obfuscation-with-powershell-using-bas
 https://mn3m.info/posts/suid-vs-capabilities/
 https://mobile.twitter.com/0gtweet/status/1564131230941122561
 https://modexp.wordpress.com/2019/08/30/minidumpwritedump-via-com-services-dll/
+https://moonlock.com/amos-backdoor-persistent-access
 https://mp.weixin.qq.com/s/wX9TMXl1KVWwB_k6EZOklw
 https://mp.weixin.qq.com/s?__biz=Mzg3NDU2MTg0Ng==&mid=2247484117&idx=1&sn=2fdab8cbe4b873f8dd8abb35d935d186
 https://mpgn.gitbook.io/crackmapexec/smb-protocol/authentication/checking-credentials-local
@@ -2456,6 +2465,7 @@ https://nmap.org/ncat/
 https://nodejs.org/api/cli.html
 https://nored0x.github.io/red-teaming/office-persistence/#what-is-a-wll-file
 https://notebook.community/Cyb3rWard0g/HELK/docker/helk-jupyter/notebooks/sigma/proxy_ursnif_malware
+https://notepad-plus-plus.org/news/v889-released/
 https://nsfocusglobal.com/apache-solr-arbitrary-file-read-and-ssrf-vulnerability-threat-alert/
 https://nsudo.m2team.org/en-us/
 https://nullsec.us/windows-event-log-audit-cve/
@@ -2663,6 +2673,7 @@ https://rvsec0n.wordpress.com/2020/01/24/malwares-that-bypass-windows-defender/
 https://s3cur3th1ssh1t.github.io/Bypass_AMSI_by_manual_modification/
 https://s3cur3th1ssh1t.github.io/SharpImpersonation-Introduction/
 https://scriptingosx.com/2018/08/user-interaction-from-bash-scripts/
+https://scythe.io/threat-thursday/threatthursday-darkside-ransomware
 https://sdmsoftware.com/general-stuff/launching-the-new-gp-management-editor-from-the-command-line/
 https://sec-consult.com/blog/detail/bumblebee-hunting-with-a-velociraptor/
 https://sec-consult.com/blog/detail/pentesters-windows-ntfs-tricks-collection/
@@ -2940,6 +2951,7 @@ https://tria.ge/211119-gs7rtshcfr/behavioral2 [Lokibot sample from Nov 2021]
 https://tria.ge/220422-1nnmyagdf2/
 https://tria.ge/220422-1pw1pscfdl/
 https://tria.ge/231004-tp8k6sch9t/behavioral2
+https://tria.ge/231212-r1bpgaefar/behavioral2
 https://tria.ge/240123-rapteaahhr/behavioral1
 https://tria.ge/240225-jlylpafb24/behavioral1/analog?main_event=Registry&op=SetValueKeyInt
 https://tria.ge/240226-fhbe7sdc39/behavioral1
@@ -3722,9 +3734,11 @@ https://www.huntandhackett.com/blog/revil-the-usage-of-legitimate-remote-admin-t
 https://www.huntress.com/blog/3cx-voip-software-compromise-supply-chain-threats
 https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screenconnect-authentication-bypass
 https://www.huntress.com/blog/attacking-mssql-servers
+https://www.huntress.com/blog/attacking-mssql-servers-pt-ii
 https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
 https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-management-software
 https://www.huntress.com/blog/moveit-transfer-critical-vulnerability-rapid-response
+https://www.huntress.com/blog/silencing-the-edr-silencers
 https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
 https://www.huntress.com/blog/the-unwanted-guest
 https://www.huntress.com/blog/threat-advisory-oh-no-cleo-cleo-software-actively-being-exploited-in-the-wild
@@ -3958,6 +3972,7 @@ https://www.rapid7.com/blog/post/2023/01/19/etr-exploitation-of-control-web-pane
 https://www.rapid7.com/blog/post/2023/02/07/etr-cve-2022-21587-rapid7-observed-exploitation-of-oracle-e-business-suite-vulnerability/
 https://www.rapid7.com/blog/post/2023/06/01/rapid7-observed-exploitation-of-critical-moveit-transfer-vulnerability/
 https://www.rapid7.com/blog/post/2023/10/25/etr-cve-2023-4966-exploitation-of-citrix-netscaler-information-disclosure-vulnerability/
+https://www.rapid7.com/blog/post/tr-chrysalis-backdoor-dive-into-lotus-blossoms-toolkit/
 https://www.rarlab.com/vuln_rev3_names.html
 https://www.real-sec.com/2019/04/bypassing-network-restrictions-through-rdp-tunneling/
 https://www.reddit.com/r/crowdstrike/comments/125r3uu/20230329_situational_awareness_crowdstrike/
