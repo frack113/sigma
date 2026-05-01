@@ -356,6 +356,7 @@ https://code.visualstudio.com/docs/remote/tunnels
 https://codewhitesec.blogspot.com/2018/07/lethalhta.html
 https://codewhitesec.blogspot.com/2022/09/attacks-on-sysmon-revisited-sysmonente.html
 https://commandk.dev/blog/guide-to-audit-k8s-secrets-for-compliance/
+https://communities.vmware.com/t5/VMware-Workstation-Pro/VMCI-driver-issues/td-p/2866060
 https://community.broadcom.com/symantecenterprise/communities/community-home/digestviewer/viewthread?MessageKey=6ce94b67-74e1-4333-b16f-000b7fd874f0&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=digestviewer
 https://community.f5.com/t5/technical-forum/icontrolrest-11-5-execute-bash-command/td-p/203029
 https://community.f5.com/t5/technical-forum/running-bash-commands-via-rest-api/td-p/272516
@@ -695,6 +696,7 @@ https://docs.nginx.com/nginx/admin-guide/monitoring/debugging/#enabling-core-dum
 https://docs.oracle.com/cd/E19683-01/816-4883/6mb2joatd/index.html
 https://docs.paloaltonetworks.com/cortex/cortex-xdr/cortex-xdr-analytics-alert-reference/cortex-xdr-analytics-alert-reference/scrcons-exe-rare-child-process.html
 https://docs.python.org/2/library/simplehttpserver.html
+https://docs.python.org/3/library/base64.html
 https://docs.python.org/3/library/site.html
 https://docs.python.org/3/using/cmdline.html#cmdoption-c
 https://docs.spring.io/spring-security/site/docs/current/api/overview-tree.html
@@ -1157,6 +1159,7 @@ https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3
 https://github.com/nasbench/Misc-Research/blob/8ee690e43a379cbce8c9d61107442c36bd9be3d3/Other/Undocumented-Flags-Sdbinst.md
 https://github.com/nasbench/Misc-Research/blob/b20da2336de0f342d31ef4794959d28c8d3ba5ba/ETW/Microsoft-Windows-Kernel-General.md
 https://github.com/nasbench/Misc-Research/blob/d114d6a5e0a437d3818e492ef9864367152543e7/Other/Persistence-Via-RegisterAppRestart-Shim.md
+https://github.com/nasbench/Misc-Research/blob/fc46f6da34ff7e0076da28fd3e66d6e1100f1c2f/ETW/Microsoft-Windows-SMBClient.md
 https://github.com/nasbench/Misc-Research/tree/b9596e8109dcdb16ec353f316678927e507a5b8d/LOLBINs/Winget
 https://github.com/nathan31337/Splunk-RCE-poc/
 https://github.com/nccgroup/redsnarf/blob/35949b30106ae543dc6f2bc3f1be10c6d9a8d40e/redsnarf.py
@@ -1657,6 +1660,7 @@ https://github.com/ThreatHuntingProject/ThreatHunting/blob/cb22598bb70651f88e028
 https://github.com/Tib3rius/AutoRecon
 https://github.com/topotam/PetitPotam
 https://github.com/topotam/PetitPotam/blob/d83ac8f2dd34654628c17490f99106eb128e7d1e/PetitPotam/PetitPotam.cpp
+https://github.com/trufflesecurity/trufflehog
 https://github.com/trustedsec/SysmonCommunityGuide/blob/adcdfee20999f422b974c8d4149bf4c361237db7/chapters/file-stream-creation-hash.md
 https://github.com/Twigonometry/Cybersecurity-Notes/blob/c875b0f52df7d2c7a870e75e1f0c2679d417931d/Writeups/Hack%20the%20Box/Boxes/Optimum/10%20-%20Website.md
 https://github.com/Tylous/ZipExec
@@ -2061,6 +2065,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-serve
 https://learn.microsoft.com/en-us/sql/odbc/odbcconf-exe?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-procoption-transact-sql?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/t-sql/statements/drop-server-audit-transact-sql?view=sql-server-ver16
+https://learn.microsoft.com/en-us/sql/t-sql/statements/drop-table-transact-sql?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sysinternals/downloads/livekd
 https://learn.microsoft.com/en-us/sysinternals/downloads/procdump
 https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
@@ -2440,6 +2445,7 @@ https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26809
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-30190
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41120
 https://my.f5.com/manage/s/article/K589
+https://naikordian.github.io/blog/posts/brute-force-aws-console/
 https://nasbench.medium.com/a-deep-dive-into-rundll32-exe-642344b41e90
 https://nasbench.medium.com/finding-forensic-goodness-in-obscure-windows-event-logs-60e978ea45a3
 https://nasbench.medium.com/lolbined-using-kaspersky-endpoint-security-kes-installer-to-execute-arbitrary-commands-1c999f1b7fea
@@ -2817,6 +2823,7 @@ https://support.citrix.com/article/CTX276688
 https://support.citrix.com/article/CTX579459/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve20234966-and-cve20234967
 https://support.f5.com/csp/article/K52145254
 https://support.google.com/a/answer/9261439
+https://support.kaspersky.com/KES4Linux/12.0.0/en-US/197929.htm
 https://support.microsoft.com/en-us/help/4557222/how-to-manage-the-changes-in-netlogon-secure-channel-connections-assoc
 https://support.microsoft.com/en-us/topic/how-to-control-the-rule-actions-to-start-an-application-or-run-a-macro-in-outlook-2016-and-outlook-2013-e4964b72-173c-959d-5d7b-ead562979048
 https://support.microsoft.com/en-us/topic/information-about-the-attachment-manager-in-microsoft-windows-c48a4dcd-8de5-2af5-ee9b-cd795ae42738
@@ -2909,6 +2916,7 @@ https://thedfirreport.com/2023/03/06/2022-year-in-review/
 https://thedfirreport.com/2023/05/22/icedid-macro-ends-in-nokoyawa-ransomware/
 https://thedfirreport.com/2023/08/28/html-smuggling-leads-to-domain-wide-ransomware/
 https://thedfirreport.com/2023/10/30/netsupport-intrusion-results-in-domain-compromise/
+https://thedfirreport.com/2024/04/01/from-onenote-to-ransomnote-an-ice-cold-intrusion/
 https://thedfirreport.com/2024/06/10/icedid-brings-screenconnect-and-csharp-streamer-to-alphv-ransomware-deployment/#detections
 https://thedfirreport.com/2024/09/30/nitrogen-campaign-drops-sliver-and-ends-with-blackcat-ransomware/
 https://thedfirreport.com/2025/06/30/hide-your-rdp-password-spray-leads-to-ransomhub-deployment/
@@ -2922,6 +2930,7 @@ https://therecord.media/cisa-warns-of-zoho-server-zero-day-exploited-in-the-wild
 https://therecord.media/revil-ransomware-executes-supply-chain-attack-via-malicious-kaseya-update/
 https://thewover.github.io/Introducing-Donut/
 https://threadreaderapp.com/thread/1533879688141086720.html
+https://threatbook.io/blog/Analysis-of-APT-C-60-Attack-on-South-Korea
 https://threathunterplaybook.com/hunts/windows/170105-LSASSMemoryReadAccess/notebook.html
 https://threathunterplaybook.com/hunts/windows/180719-DLLProcessInjectionCreateRemoteThread/notebook.html
 https://threathunterplaybook.com/hunts/windows/180815-ADObjectAccessReplication/notebook.html
@@ -3418,6 +3427,7 @@ https://web.archive.org/web/20160727113019/https://answers.microsoft.com/en-us/p
 https://web.archive.org/web/20160928212230/https://www.adaptforward.com/2016/09/using-netshell-to-execute-evil-dlls-and-persist-on-a-host/
 https://web.archive.org/web/20170319121015/http://www.threatgeek.com/2017/03/widespread-exploitation-attempts-using-cve-2017-5638.html
 https://web.archive.org/web/20170715043507/http://www.exploit-monday.com/2016/08/windbg-cdb-shellcode-runner.html
+https://web.archive.org/web/20170909091934/https://blog.binarydefense.com/reliably-detecting-pass-the-hash-through-event-log-analysis
 https://web.archive.org/web/20171001085340/https://subt0x10.blogspot.com/2017/04/bypass-application-whitelisting-script.html
 https://web.archive.org/web/20171113231705/https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks
 https://web.archive.org/web/20180331144337/https://www.fireeye.com/blog/threat-research/2018/03/sanny-malware-delivery-method-updated-in-recently-observed-attacks.html
@@ -3467,6 +3477,7 @@ https://web.archive.org/web/20221026202428/https://gist.github.com/code-scrap/d7
 https://web.archive.org/web/20230208123920/https://cyberwardog.blogspot.com/2017/03/chronicles-of-threat-hunter-hunting-for_22.html
 https://web.archive.org/web/20230217071802/https://blooteem.com/march-2022
 https://web.archive.org/web/20230329153811/https://blog.menasec.net/2019/02/threat-huting-10-impacketsecretdump.html
+https://web.archive.org/web/20230329154538/https://blog.menasec.net/2019/07/interesting-difr-traces-of-net-clr.html
 https://web.archive.org/web/20230329155141/https://blog.menasec.net/2019/03/threat-hunting-26-remote-windows.html
 https://web.archive.org/web/20230329170326/https://blog.menasec.net/2019/02/threat-hunting-21-procdump-or-taskmgr.html
 https://web.archive.org/web/20230329171218/https://blog.menasec.net/2019/02/threat-hunting-3-detecting-psexec.html
@@ -3500,6 +3511,7 @@ https://www.advanced-ip-scanner.com/
 https://www.advanced-port-scanner.com/
 https://www.advintel.io/post/secret-backdoor-behind-conti-ransomware-operation-introducing-atera-agent
 https://www.agnosticdev.com/content/how-diagnose-app-transport-security-issues-using-nscurl-and-openssl
+https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains
 https://www.alienvault.com/blogs/security-essentials/dynamic-dns-security-and-potential-threats
 https://www.ammyy.com/en/admin_features.html
 https://www.ampliasecurity.com/research/windows-credentials-editor/
@@ -3668,6 +3680,7 @@ https://www.elastic.co/security-labs/operation-bleeding-bear
 https://www.elastic.co/security-labs/stopping-vulnerable-driver-attacks
 https://www.elevenforum.com/t/video-guide-how-to-completely-disable-microsoft-defender-antivirus.14608/page-2
 https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
+https://www.endorlabs.com/learn/shai-hulud-2-malware-campaign-targets-github-and-cloud-credentials-using-bun-runtime
 https://www.epicturla.com/blog/sysinturla
 https://www.experts-exchange.com/questions/27800944/EventID-18456-Failed-to-open-the-explicitly-specified-database.html
 https://www.exploit-db.com/exploits/19525
@@ -3868,6 +3881,7 @@ https://www.microsoft.com/en-us/security/blog/2024/01/17/new-ttps-observed-in-mi
 https://www.microsoft.com/en-us/security/blog/2024/04/22/analyzing-forest-blizzards-custom-post-compromise-tool-for-exploiting-cve-2022-38028-to-obtain-credentials/
 https://www.microsoft.com/en-us/security/blog/2024/07/29/ransomware-operators-exploit-esxi-hypervisor-vulnerability-for-mass-encryption/
 https://www.microsoft.com/en-us/security/blog/2024/10/29/midnight-blizzard-conducts-large-scale-spear-phishing-campaign-using-rdp-files/
+https://www.microsoft.com/en-us/security/blog/2025/04/15/threat-actors-misuse-node-js-to-deliver-malware-and-other-malicious-payloads/
 https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/03/Figure-7-sample-webdav-process-create-event.png
 https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?name=TrojanSpy%3aMSIL%2fHakey.A
 https://www.microsoft.com/security/blog/2017/10/23/windows-defender-exploit-guard-reduce-the-attack-surface-against-next-generation-malware/
@@ -4061,6 +4075,7 @@ https://www.thestack.technology/security-experts-call-for-incident-response-exer
 https://www.trellix.com/en-sg/about/newsroom/stories/threat-labs/lockergoga-ransomware-family-used-in-targeted-attacks.html
 https://www.trellix.com/en-us/about/newsroom/stories/research/beyond-file-search-a-novel-method.html
 https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus/Genshin%20Impact%20Figure%2010.jpg
+https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/b/lockbit-attempts-to-stay-afloat-with-a-new-version/technical-appendix-lockbit-ng-dev-analysis.pdf
 https://www.trendmicro.com/en_id/research/22/e/uncovering-a-kingminer-botnet-attack-using-trend-micro-managed-x.html
 https://www.trendmicro.com/en_no/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html
 https://www.trendmicro.com/en_ph/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
