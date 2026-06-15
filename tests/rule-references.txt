@@ -801,6 +801,7 @@ https://gist.github.com/NickTyrer/0598b60112eaafe6d07789f7964290d5
 https://gist.github.com/roycewilliams/a723aaf8a6ac3ba4f817847610935cfb
 https://gist.github.com/ryhanson/227229866af52e2d963cf941af135a52
 https://gist.github.com/teixeira0xfffff/837e5bfed0d1b0a29a7cb1e5dbdd9ca6
+https://gist.github.com/travisbgreen/82b68bac499edbe0b17dcbfa0c5c71b7
 https://gist.githubusercontent.com/bohops/0cc6586f205f3691e04a1ebf1806aabd/raw/baf7b29891bb91e76198e30889fbf7d6642e8974/calc_exe.inf
 https://gist.githubusercontent.com/MichaelKoczwara/12faba9c061c12b5814b711166de8c2f/raw/e2068486692897b620c25fde1ea258c8218fe3d3/history.txt
 https://git.libssh.org/projects/libssh.git/tree/src/curve25519.c#n420
@@ -1151,6 +1152,7 @@ https://github.com/mitre-attack/bzar#indicators-for-attck-execution
 https://github.com/mitre-attack/bzar#indicators-for-attck-persistence
 https://github.com/mttaggart/OffensiveNotion
 https://github.com/mttaggart/quasar
+https://github.com/mulwareX/CVE-2025-6218-POC
 https://github.com/murataydemir/CVE-2021-27905
 https://github.com/mvelazc0/PurpleSharp
 https://github.com/MythicAgents/typhon/
@@ -1177,6 +1179,7 @@ https://github.com/Neo23x0/Raccine/blob/20a569fa21625086433dcce8bb2765d0ea08dcb6
 https://github.com/Neo23x0/signature-base/blob/615bf1f6bac3c1bdc417025c40c073e6c2771a76/yara/gen_susp_lnk_files.yar#L19
 https://github.com/Neo23x0/sysmon-config/blob/3f808d9c022c507aae21a9346afba4a59dd533b9/sysmonconfig-export-block.xml#L1326
 https://github.com/netero1010/EDRSilencer
+https://github.com/netero1010/EDRSilencer/blob/0e73a7037ec65c52894d8208e6f605a7da0a34a6/EDRSilencer.c
 https://github.com/netero1010/TrustedPath-UACBypass-BOF
 https://github.com/NetSPI/aws_consoler
 https://github.com/NetSPI/PowerUpSQL
@@ -1725,9 +1728,11 @@ https://github.com/zerosum0x0/CVE-2019-0708
 https://github.security.telekom.com/2023/08/darkgate-loader.html
 https://githubmemory.com/repo/FunctFan/JNDIExploit
 https://giuliocomi.blogspot.com/2019/10/abusing-windows-10-narrators-feedback.html
+https://gladinetsupport.s3.us-east-1.amazonaws.com/gladinet/securityadvisory-cve-2005.pdf
 https://global.ptsecurity.com/analytics/pt-esc-threat-intelligence/darkhotel-a-cluster-of-groups-united-by-common-techniques
 https://go.recordedfuture.com/hubfs/reports/mtp-2021-0914.pdf
 https://goo.gl/PsqrhT
+https://goodworkaround.com/2022/02/15/digging-into-azure-ad-certificate-based-authentication/
 https://googleprojectzero.blogspot.com/2019/08/implant-teardown.html
 https://grafana.com/blog/2021/12/07/grafana-8.3.1-8.2.7-8.1.8-and-8.0.7-released-with-high-severity-security-fix/
 https://grep.app/search?q=winpwn&filter[repo][0]=redcanaryco/atomic-red-team
@@ -1760,6 +1765,7 @@ https://hashcat.net/wiki/doku.php?id=hashcat
 https://hatching.io/blog/powershell-analysis/
 https://hausec.com/2021/07/26/cobalt-strike-and-tradecraft/
 https://help.duo.com/s/article/6327?language=en_US
+https://help.fortinet.com/fsiem/Public_Resource_Access/7_4_0/rules/PH_RULE_AWS_GuardDuty_Detector_Deletion.htm
 https://help.okta.com/en-us/Content/Topics/users-groups-profiles/usgp-create-character-restriction.htm
 https://hijacklibs.net/
 https://hijacklibs.net/entries/3rd_party/google/chrome_frame_helper.html
@@ -2521,6 +2527,7 @@ https://packetstormsecurity.com/files/166692/Windows-User-Profile-Service-Privle
 https://paste.cryptolaemus.com/emotet/2020/12/22/emotet-malware-IoCs_12-22-20.html
 https://patrick-bareiss.com/detecting-local-user-creation-in-ad-with-sigma/
 https://pberba.github.io/security/2021/11/23/linux-threat-hunting-for-persistence-account-creation-manipulation/
+https://pberba.github.io/security/2022/01/30/linux-threat-hunting-for-persistence-systemd-timers-cron/
 https://pbs.twimg.com/media/EF3yLGoWkAEGeLa?format=jpg
 https://pbs.twimg.com/media/FtYbfsDXoAQ1Y8M?format=jpg&name=large
 https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
@@ -2632,6 +2639,7 @@ https://redcanary.com/blog/rclone-mega-extortion/
 https://redcanary.com/blog/right-to-left-override/
 https://redcanary.com/blog/yellow-cockatoo/
 https://redcanary.com/threat-detection-report/
+https://redcanary.com/threat-detection-report/techniques/installer-packages/
 https://redcanary.com/threat-detection-report/threats/cobalt-strike/
 https://redcanary.com/threat-detection-report/threats/dridex/
 https://redcanary.com/threat-detection-report/threats/qbot/
@@ -2703,6 +2711,7 @@ https://securelist.com/chafer-used-remexi-malware/89538/
 https://securelist.com/defttorero-tactics-techniques-and-procedures/107610/
 https://securelist.com/faq-the-projectsauron-apt/75533/
 https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/
+https://securelist.com/forumtroll-apt-hacking-team-dante-spyware/117851/
 https://securelist.com/lazarus-covets-covid-19-related-intelligence/99906/
 https://securelist.com/lazarus-on-the-hunt-for-big-game/97757/
 https://securelist.com/locked-out/68960/
@@ -3477,6 +3486,7 @@ https://web.archive.org/web/20220830122045/http://blog.talosintelligence.com/202
 https://web.archive.org/web/20220830134315/https://content.fireeye.com/apt-41/rpt-apt41/
 https://web.archive.org/web/20221019044836/https://nsudo.m2team.org/en-us/
 https://web.archive.org/web/20221026202428/https://gist.github.com/code-scrap/d7f152ffcdb3e0b02f7f394f5187f008
+https://web.archive.org/web/20221204161143/https://www.glitch-cat.com/p/green-lambert-and-attack
 https://web.archive.org/web/20230208123920/https://cyberwardog.blogspot.com/2017/03/chronicles-of-threat-hunter-hunting-for_22.html
 https://web.archive.org/web/20230217071802/https://blooteem.com/march-2022
 https://web.archive.org/web/20230329153811/https://blog.menasec.net/2019/02/threat-huting-10-impacketsecretdump.html
@@ -3674,6 +3684,7 @@ https://www.elastic.co/guide/en/security/current/windows-defender-exclusions-add
 https://www.elastic.co/guide/en/security/current/windows-firewall-disabled-via-powershell.html
 https://www.elastic.co/guide/en/security/current/windows-service-installed-via-an-unusual-client.html
 https://www.elastic.co/security-labs/a-peek-behind-the-bpfdoor
+https://www.elastic.co/security-labs/axios-supply-chain-compromise-detections
 https://www.elastic.co/security-labs/exploring-the-qbot-attack-pattern
 https://www.elastic.co/security-labs/exploring-the-ref2731-intrusion-set
 https://www.elastic.co/security-labs/grimresource
@@ -3723,6 +3734,7 @@ https://www.fortinet.com/blog/threat-research/ursnif-variant-spreading-word-docu
 https://www.fortinet.com/content/dam/fortinet/assets/analyst-reports/ar-qakbot.pdf
 https://www.fortypoundhead.com/showcontent.asp?artid=24022
 https://www.fox-it.com/en/news/whitepapers/operation-wocao-shining-a-light-on-one-of-chinas-hidden-hacking-groups/
+https://www.geeksforgeeks.org/how-to-kill-processes-on-the-linux-desktop-with-xkill/
 https://www.giac.org/paper/gcih/266/review-ftp-protocol-cyber-defense-initiative/102802
 https://www.glitch-cat.com/p/green-lambert-and-attack
 https://www.gnu.org/software/wget/manual/wget.html
@@ -4013,6 +4025,7 @@ https://www.secura.com/blog/zero-logon
 https://www.secureworks.com/blog/ransomware-as-a-distraction
 https://www.secureworks.com/research/bronze-butler-targets-japanese-businesses
 https://www.secureworks.com/research/shadowpad-malware-analysis
+https://www.security.com/threat-intelligence/medusa-ransomware-attacks
 https://www.securityhq.com/blog/malicious-isatap-tunneling-unearthed-on-windows-server/
 https://www.securitynewspaper.com/2016/11/23/technical-teardown-exploit-malware-hwp-files/
 https://www.securitynewspaper.com/2017/03/20/attackers-leverage-excel-powershell-dns-latest-non-malware-attack/
@@ -4142,6 +4155,7 @@ https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?even
 https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=634
 https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90015
 https://www.ultimatewindowssecurity.com/wiki/page.aspx?spid=NSrpcservers
+https://www.unicode.org/versions/Unicode5.2.0/ch02.pdf
 https://www.uptycs.com/blog/kuraystealer-a-bandit-using-discord-webhooks
 https://www.uptycs.com/blog/lolbins-are-no-laughing-matter
 https://www.uptycs.com/blog/warzonerat-can-now-evade-with-process-hollowing
@@ -4311,6 +4325,7 @@ https://x.com/defusedcyber/status/1971492272966598683
 https://x.com/nas_bench/status/1868639048484425963
 https://x.com/NullSecurityX/status/1937444064867029179
 https://x.com/russianpanda9xx/status/1940831134759506029
+https://x.com/SBousseaden/status/2044417029721997635
 https://x.com/yarden_shafir/status/1822667605175324787
 https://xmrig.com/docs/miner/command-line-options
 https://xz.aliyun.com/t/12175
