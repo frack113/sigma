@@ -2,6 +2,7 @@
 
 """Validate the info.yml files in regression_data/."""
 
+import json
 import os
 import sys
 import uuid
@@ -10,10 +11,61 @@ from pathlib import Path
 from typing import Any, Dict, Iterator, List, NoReturn, Tuple
 
 import yaml
+try:
+    import jsonschema
+    HAS_JSONSCHEMA = True
+except ImportError:
+    HAS_JSONSCHEMA = False
 
 
 # Known test types
 KNOWN_TEST_TYPES = {"evtx"}
+
+
+def load_schema(schema_dir: Path) -> Dict[str, Any]:
+    """Load the JSON Schema for regression info files.
+
+    Args:
+        schema_dir (Path): Directory containing the schema file.
+
+    Returns:
+        Dict[str, Any]: The loaded JSON Schema, or None if not available.
+    """
+    schema_path = schema_dir / "sigma-detection-rule-regression-info-schema.json"
+    if not schema_path.exists():
+        warnings.warn(f"Schema file not found at {schema_path}, skipping schema validation")
+        return None
+    try:
+        with open(schema_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError) as e:
+        warnings.warn(f"Failed to load schema file {schema_path}: {e}")
+        return None
+
+
+def validate_with_schema(data: Dict[str, Any], schema: Dict[str, Any]) -> List[str]:
+    """Validate data against a JSON Schema.
+
+    Args:
+        data (Dict[str, Any]): Data to validate.
+        schema (Dict[str, Any]): JSON Schema to validate against.
+
+    Returns:
+        List[str]: List of validation error messages.
+    """
+    if not HAS_JSONSCHEMA:
+        return ["jsonschema library not available, skipping schema validation"]
+
+    errors = []
+    try:
+        jsonschema.validate(data, schema)
+    except jsonschema.exceptions.ValidationError as e:
+        # Build a readable path from the error
+        path = " -> ".join(str(p) for p in e.absolute_path) if e.absolute_path else "root"
+        errors.append(f"[JSON Schema] {path}: {e.message}")
+    except jsonschema.exceptions.SchemaError as e:
+        errors.append(f"[JSON Schema] Invalid schema: {e.message}")
+    return errors
 
 
 def get_envs() -> Dict[str, Any]:
@@ -215,6 +267,16 @@ def validate_all(
     errors_by_file: Dict[str, List[str]] = {}
     file_count = 0
 
+    # Load JSON Schema from the first valid path's sibling directory
+    schema = None
+    for reg_path in regression_paths:
+        if reg_path.exists():
+            # Schema is in tests/validate-regression-info/
+            schema_dir = Path(__file__).parent.resolve()
+            schema = load_schema(schema_dir)
+            if schema:
+                break
+
     for reg_path in regression_paths:
         if not reg_path.exists():
             warnings.warn(f"Regression path {reg_path} does not exist")
@@ -223,6 +285,20 @@ def validate_all(
         for info_file in generate_all_info_files(reg_path):
             file_count += 1
             errors = validate_info_file(info_file, reg_path)
+
+            # Also validate against JSON Schema if available
+            if schema:
+                try:
+                    with open(info_file, "r", encoding="utf-8") as f:
+                        data = yaml.safe_load(f)
+                    if isinstance(data, dict):
+                        # Convert date objects to ISO strings for JSON Schema validation
+                        data = json.loads(json.dumps(data, default=str))
+                        schema_errors = validate_with_schema(data, schema)
+                        errors.extend(schema_errors)
+                except yaml.YAMLError:
+                    pass  # Already caught by validate_info_file
+
             if errors:
                 errors_by_file[str(info_file)] = errors
 
