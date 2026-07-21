@@ -151,7 +151,7 @@ def validate_info_file(file_path: Path, base_dir: Path) -> List[str]:
         return ["File does not contain a valid YAML mapping"]
 
     # 2. Check mandatory fields
-    mandatory_fields = ["id", "description", "date", "author", "regression_tests_info"]
+    mandatory_fields = ["id", "description", "date", "author", "rule_metadata", "regression_tests_info"]
     for field in mandatory_fields:
         if field not in data:
             errors.append(f"Missing mandatory field '{field}'")
@@ -164,11 +164,13 @@ def validate_info_file(file_path: Path, base_dir: Path) -> List[str]:
     else:
         errors.append("Field 'id' is missing or empty")
 
-    # 4. Validate rule_metadata (optional but encouraged)
+    # 4. Validate rule_metadata (mandatory, at least 1 entry with id + title)
     rule_metadata = data.get("rule_metadata")
     if rule_metadata is not None:
         if not isinstance(rule_metadata, list):
             errors.append("Field 'rule_metadata' must be a list")
+        elif len(rule_metadata) == 0:
+            errors.append("Field 'rule_metadata' must not be empty")
         else:
             for i, entry in enumerate(rule_metadata):
                 if not isinstance(entry, dict):
