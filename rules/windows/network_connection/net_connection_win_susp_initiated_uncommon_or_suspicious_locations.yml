@@ -102,3 +102,4 @@ detection:
 falsepositives:
     - Unknown
 level: high
+regression_tests_path: regression_data/rules/windows/network_connection/net_connection_win_susp_initiated_uncommon_or_suspicious_locations/info.yml

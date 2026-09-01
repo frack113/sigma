@@ -1,0 +1,13 @@
+id: 5957bc13-1fdf-402e-962e-4d0144c9118b
+description: N/A
+date: 2026-09-01
+author: frack113
+rule_metadata:
+- id: 7b434893-c57d-4f41-908d-6a17bf1ae98f
+  title: Network Connection Initiated From Process Located In Potentially Suspicious Or Uncommon Location
+regression_tests_info:
+- name: Positive Detection Test
+  type: evtx
+  provider: Microsoft-Windows-Sysmon
+  match_count: 1
+  path: regression_data/rules/windows/network_connection/net_connection_win_susp_initiated_uncommon_or_suspicious_locations/7b434893-c57d-4f41-908d-6a17bf1ae98f.evtx
