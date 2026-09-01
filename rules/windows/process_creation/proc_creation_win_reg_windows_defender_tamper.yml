@@ -70,3 +70,4 @@ detection:
 falsepositives:
     - Rare legitimate use by administrators to test software (should always be investigated)
 level: high
+regression_tests_path: regression_data/rules/windows/process_creation/proc_creation_win_reg_windows_defender_tamper/info.yml

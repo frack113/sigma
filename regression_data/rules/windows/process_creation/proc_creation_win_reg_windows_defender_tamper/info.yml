@@ -1,0 +1,13 @@
+id: c441e637-1279-49e2-a09e-9208123af834
+description: N/A
+date: 2026-09-01
+author: frack113
+rule_metadata:
+- id: 452bce90-6fb0-43cc-97a5-affc283139b3
+  title: Suspicious Windows Defender Registry Key Tampering Via Reg.EXE
+regression_tests_info:
+- name: Positive Detection Test
+  type: evtx
+  provider: Microsoft-Windows-Sysmon
+  match_count: 1
+  path: regression_data/rules/windows/process_creation/proc_creation_win_reg_windows_defender_tamper/452bce90-6fb0-43cc-97a5-affc283139b3.evtx
