@@ -95,3 +95,4 @@ detection:
 falsepositives:
     - Legitimate software (un)installations are known to cause false positives. Please add them as a filter when encountered
 level: medium
+regression_tests_path: regression_data/rules/windows/registry/registry_delete/registry_delete_removal_com_hijacking_registry_key/info.yml
