@@ -1,0 +1,13 @@
+id: 7aade34d-e70a-4589-bdf6-14dbce903275
+description: N/A
+date: 2026-09-01
+author: frack113
+rule_metadata:
+- id: d6a9b252-c666-4de6-8806-5561bbbd3bdc
+  title: Wdigest Enable UseLogonCredential
+regression_tests_info:
+- name: Positive Detection Test
+  type: evtx
+  provider: Microsoft-Windows-Sysmon
+  match_count: 1
+  path: regression_data/rules/windows/registry/registry_set/registry_set_wdigest_enable_uselogoncredential/d6a9b252-c666-4de6-8806-5561bbbd3bdc.evtx
