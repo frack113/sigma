@@ -1,0 +1,52 @@
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Microsoft-Windows-Sysmon",
+          "Guid": "5770385F-C22A-43E0-BF4C-06F5698FFBD9"
+        }
+      },
+      "EventID": 13,
+      "Version": 2,
+      "Level": 4,
+      "Task": 13,
+      "Opcode": 0,
+      "Keywords": "0x8000000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2026-08-07T05:28:05.4450723Z"
+        }
+      },
+      "EventRecordID": 235514,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 3700,
+          "ThreadID": 4144
+        }
+      },
+      "Channel": "Microsoft-Windows-Sysmon/Operational",
+      "Computer": "SigmaCatchVm",
+      "Security": {
+        "#attributes": {
+          "UserID": "S-1-5-18"
+        }
+      }
+    },
+    "EventData": {
+      "RuleName": "technique_id=T1547.001,technique_name=Registry Run Keys / Start Folder",
+      "EventType": "SetValue",
+      "UtcTime": "2026-08-07 05:28:05.443",
+      "ProcessGuid": "570E49AA-6A7E-6A75-6C02-000000001200",
+      "ProcessId": 2412,
+      "Image": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\151.0.4129.72\\Installer\\setup.exe",
+      "TargetObject": "HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunOnce\\msedge_cleanup_{56EB18F8-B008-4CBD-B6D2-8C97FE7E9062}",
+      "Details": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\151.0.4129.72\\Installer\\setup.exe\" --msedge --channel=stable --delete-old-versions --system-level --verbose-logging --on-logon",
+      "User": "AUTORITE NT\\Système"
+    }
+  }
+}
