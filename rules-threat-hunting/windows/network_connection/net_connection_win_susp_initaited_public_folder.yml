@@ -29,3 +29,4 @@ detection:
 falsepositives:
     - Likely from legitimate third party application that execute from the "Public" directory.
 level: medium
+regression_tests_path: regression_data/rules-threat-hunting/windows/network_connection/net_connection_win_susp_initaited_public_folder/info.yml

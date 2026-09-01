@@ -1,0 +1,13 @@
+id: 009f3f4b-d969-4386-a71b-ed2100ff7b0e
+description: N/A
+date: 2026-09-01
+author: frack113
+rule_metadata:
+- id: bcb03938-9f8b-487d-8d86-e480691e1d71
+  title: Network Connection Initiated From Users\Public Folder
+regression_tests_info:
+- name: Positive Detection Test
+  type: evtx
+  provider: Microsoft-Windows-Sysmon
+  match_count: 1
+  path: regression_data/rules-threat-hunting/windows/network_connection/net_connection_win_susp_initaited_public_folder/bcb03938-9f8b-487d-8d86-e480691e1d71.evtx
