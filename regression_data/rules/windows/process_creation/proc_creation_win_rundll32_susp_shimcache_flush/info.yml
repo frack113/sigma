@@ -1,0 +1,13 @@
+id: af4fee51-b7a0-4908-b1da-76d2f762d784
+description: N/A
+date: 2026-09-01
+author: frack113
+rule_metadata:
+- id: b0524451-19af-4efa-a46f-562a977f792e
+  title: ShimCache Flush
+regression_tests_info:
+- name: Positive Detection Test
+  type: evtx
+  provider: Microsoft-Windows-Sysmon
+  match_count: 1
+  path: regression_data/rules/windows/process_creation/proc_creation_win_rundll32_susp_shimcache_flush/b0524451-19af-4efa-a46f-562a977f792e.evtx

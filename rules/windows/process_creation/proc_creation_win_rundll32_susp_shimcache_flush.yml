@@ -34,3 +34,4 @@ detection:
 falsepositives:
     - Unknown
 level: high
+regression_tests_path: regression_data/rules/windows/process_creation/proc_creation_win_rundll32_susp_shimcache_flush/info.yml
