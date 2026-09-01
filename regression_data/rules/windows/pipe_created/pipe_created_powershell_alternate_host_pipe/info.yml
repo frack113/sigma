@@ -1,0 +1,13 @@
+id: 7af6373e-2ffa-47a2-a87a-e90e49a8ea20
+description: N/A
+date: 2026-09-01
+author: frack113
+rule_metadata:
+- id: 58cb02d5-78ce-4692-b3e1-dce850aae41a
+  title: Alternate PowerShell Hosts Pipe
+regression_tests_info:
+- name: Positive Detection Test
+  type: evtx
+  provider: Microsoft-Windows-Sysmon
+  match_count: 1
+  path: regression_data/rules/windows/pipe_created/pipe_created_powershell_alternate_host_pipe/58cb02d5-78ce-4692-b3e1-dce850aae41a.evtx

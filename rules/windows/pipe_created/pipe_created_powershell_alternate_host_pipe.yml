@@ -61,3 +61,4 @@ detection:
 falsepositives:
     - Programs using PowerShell directly without invocation of a dedicated interpreter.
 level: medium
+regression_tests_path: regression_data/rules/windows/pipe_created/pipe_created_powershell_alternate_host_pipe/info.yml
