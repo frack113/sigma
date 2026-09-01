@@ -1,0 +1,52 @@
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Microsoft-Windows-Sysmon",
+          "Guid": "5770385F-C22A-43E0-BF4C-06F5698FFBD9"
+        }
+      },
+      "EventID": 13,
+      "Version": 2,
+      "Level": 4,
+      "Task": 13,
+      "Opcode": 0,
+      "Keywords": "0x8000000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2026-09-01T07:55:54.3558536Z"
+        }
+      },
+      "EventRecordID": 291878,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 3464,
+          "ThreadID": 4220
+        }
+      },
+      "Channel": "Microsoft-Windows-Sysmon/Operational",
+      "Computer": "SigmaCatchVm",
+      "Security": {
+        "#attributes": {
+          "UserID": "S-1-5-18"
+        }
+      }
+    },
+    "EventData": {
+      "RuleName": "technique_id=T1137.006,technique_name=Office Add-ins",
+      "EventType": "SetValue",
+      "UtcTime": "2026-09-01 07:55:54.349",
+      "ProcessGuid": "570E49AA-8505-6A96-6804-000000001B00",
+      "ProcessId": 2316,
+      "Image": "C:\\AtomicRedTeam\\ExternalPayloads\\gpginstall.exe",
+      "TargetObject": "HKLM\\SOFTWARE\\WOW6432Node\\Microsoft\\Office\\Outlook\\Addins\\GNU.GpgOL\\LoadBehavior",
+      "Details": "DWORD (0x00000003)",
+      "User": "SigmaCatchVm\\frack113"
+    }
+  }
+}

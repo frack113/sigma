@@ -100,3 +100,4 @@ falsepositives:
     - Legitimate software or add-in installations and administrative configurations
     - Automatic registry modifications during legitimate software installations
 level: medium
+regression_tests_path: regression_data/rules/windows/registry/registry_set/registry_set_asep_reg_keys_modification_office/info.yml
