@@ -1,0 +1,13 @@
+id: 4fd982df-15fa-4147-8cd7-b6dc934d9d45
+description: N/A
+date: 2026-09-01
+author: frack113
+rule_metadata:
+- id: 35f41cd7-c98e-469f-8a02-ec4ba0cc7a7e
+  title: PowerShell Write-EventLog Usage
+regression_tests_info:
+- name: Positive Detection Test
+  type: evtx
+  provider: Microsoft-Windows-PowerShell
+  match_count: 1
+  path: regression_data/rules/windows/powershell/powershell_script/posh_ps_susp_write_eventlog/35f41cd7-c98e-469f-8a02-ec4ba0cc7a7e.evtx

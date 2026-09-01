@@ -21,3 +21,4 @@ detection:
 falsepositives:
     - Legitimate applications writing events via this cmdlet. Investigate alerts to determine if the action is benign
 level: medium
+regression_tests_path: regression_data/rules/windows/powershell/powershell_script/posh_ps_susp_write_eventlog/info.yml
