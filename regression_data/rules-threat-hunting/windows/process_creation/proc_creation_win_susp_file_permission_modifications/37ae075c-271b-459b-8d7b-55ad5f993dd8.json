@@ -1,0 +1,66 @@
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Microsoft-Windows-Sysmon",
+          "Guid": "5770385F-C22A-43E0-BF4C-06F5698FFBD9"
+        }
+      },
+      "EventID": 1,
+      "Version": 5,
+      "Level": 4,
+      "Task": 1,
+      "Opcode": 0,
+      "Keywords": "0x8000000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2026-08-30T09:08:16.0521041Z"
+        }
+      },
+      "EventRecordID": 242675,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 3280,
+          "ThreadID": 4356
+        }
+      },
+      "Channel": "Microsoft-Windows-Sysmon/Operational",
+      "Computer": "SigmaCatchVm",
+      "Security": {
+        "#attributes": {
+          "UserID": "S-1-5-18"
+        }
+      }
+    },
+    "EventData": {
+      "RuleName": "technique_id=T1222.001,technique_name=File Permissions Modification",
+      "UtcTime": "2026-08-30 09:08:16.047",
+      "ProcessGuid": "570E49AA-F300-6A93-B301-000000001500",
+      "ProcessId": 10288,
+      "Image": "C:\\Windows\\System32\\icacls.exe",
+      "FileVersion": "10.0.26100.1882 (WinBuild.160101.0800)",
+      "Description": "-",
+      "Product": "Microsoft® Windows® Operating System",
+      "Company": "Microsoft Corporation",
+      "OriginalFileName": "iCACLS.EXE",
+      "CommandLine": "\"C:\\WINDOWS\\system32\\icacls.exe\" C:\\Users\\frack113\\.ssh\\id_sigmacatch /inheritance:r /grant:r",
+      "CurrentDirectory": "C:\\Users\\frack113\\",
+      "User": "SigmaCatchVm\\frack113",
+      "LogonGuid": "570E49AA-F2FF-6A93-2F87-600000000000",
+      "LogonId": "0x60872f",
+      "TerminalSessionId": 0,
+      "IntegrityLevel": "High",
+      "Hashes": "SHA1=4CD33202E7312C734CDD3F0447067C4CB6295027,MD5=512571E55EE542F7F477DB463385CA92,SHA256=CB9E55D4C02F4E55100724D2DA9A1267F49E196BD39FCDF36CEC6EA6314FAD2A,IMPHASH=1F9D15E7251963F81D67B888B965F5D1",
+      "ParentProcessGuid": "570E49AA-F2FF-6A93-B201-000000001500",
+      "ParentProcessId": 10472,
+      "ParentImage": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "ParentCommandLine": "powershell.exe  -NoProfile -EncodedCommand JABFAHIAcgBvAHIAQQBjAHQAaQBvAG4AUAByAGUAZgBlAHIAZQBuAGMAZQAgAD0AIAAnAEMAbwBuAHQAaQBuAHUAZQAnAA0ACgBTAGUAdAAtAEUAeABlAGMAdQB0AGkAbwBuAFAAbwBsAGkAYwB5ACAAQgB5AHAAYQBzAHMAIAAtAFMAYwBvAHAAZQAgAEMAdQByAHIAZQBuAHQAVQBzAGUAcgAgAC0ARgBvAHIAYwBlACAALQBFAHIAcgBvAHIAQQBjAHQAaQBvAG4AIABTAGkAbABlAG4AdABsAHkAQwBvAG4AdABpAG4AdQBlAA0ACgAmACAAJwBDADoAXABzAGkAZwBtAGEAYwBhAHQAYwBoAFwAdwBpAG4AXwBzAHMAaAAuAHAAcwAxACcAIAA=",
+      "ParentUser": "SigmaCatchVm\\frack113"
+    }
+  }
+}
