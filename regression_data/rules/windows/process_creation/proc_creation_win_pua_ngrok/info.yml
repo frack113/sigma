@@ -1,0 +1,13 @@
+id: e3b6c14a-8321-4846-a025-074e3648156d
+description: N/A
+date: 2026-09-01
+author: frack113
+rule_metadata:
+- id: ee37eb7c-a4e7-4cd5-8fa4-efa27f1c3f31
+  title: PUA - Ngrok Execution
+regression_tests_info:
+- name: Positive Detection Test
+  type: evtx
+  provider: Microsoft-Windows-Sysmon
+  match_count: 1
+  path: regression_data/rules/windows/process_creation/proc_creation_win_pua_ngrok/ee37eb7c-a4e7-4cd5-8fa4-efa27f1c3f31.evtx
