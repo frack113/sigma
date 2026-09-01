@@ -1,0 +1,13 @@
+id: b4d37019-d4a3-4128-bfbc-4db08ee4eba8
+description: N/A
+date: 2026-09-01
+author: frack113
+rule_metadata:
+- id: 1edff897-9146-48d2-9066-52e8d8f80a2f
+  title: Suspicious Invoke-WebRequest Execution With DirectIP
+regression_tests_info:
+- name: Positive Detection Test
+  type: evtx
+  provider: Microsoft-Windows-Sysmon
+  match_count: 1
+  path: regression_data/rules/windows/process_creation/proc_creation_win_powershell_invoke_webrequest_direct_ip/1edff897-9146-48d2-9066-52e8d8f80a2f.evtx
