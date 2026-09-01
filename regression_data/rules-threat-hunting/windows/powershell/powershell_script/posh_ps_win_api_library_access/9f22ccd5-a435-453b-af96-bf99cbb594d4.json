@@ -1,0 +1,52 @@
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Microsoft-Windows-PowerShell",
+          "Guid": "A0C1853B-5C40-4B15-8766-3CF1C58F985A"
+        }
+      },
+      "EventID": 4104,
+      "Version": 1,
+      "Level": 5,
+      "Task": 2,
+      "Opcode": 15,
+      "Keywords": "0x0",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2026-09-01T07:53:48.9469649Z"
+        }
+      },
+      "EventRecordID": 10752,
+      "Correlation": {
+        "#attributes": {
+          "ActivityID": "11DB7B01-39E0-0001-514A-E211E039DD01"
+        }
+      },
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 2664,
+          "ThreadID": 6460
+        }
+      },
+      "Channel": "Microsoft-Windows-PowerShell/Operational",
+      "Computer": "SigmaCatchVm",
+      "Security": {
+        "#attributes": {
+          "UserID": "S-1-5-21-4246997345-1000708036-2014123355-1001"
+        }
+      }
+    },
+    "EventData": {
+      "MessageNumber": 1,
+      "MessageTotal": 1,
+      "ScriptBlockText": "& {$process = Start-Process C:\\Windows\\System32\\werfault.exe -passthru\nC:\\AtomicRedTeam\\atomics\\T1055\\bin\\x64\\RtlCreateUserThread.exe -pid $process.Id -debug}",
+      "ScriptBlockId": "29632631-df71-4e72-b7c7-29a70df03ec8",
+      "Path": ""
+    }
+  }
+}
