@@ -1,0 +1,57 @@
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Microsoft-Windows-Sysmon",
+          "Guid": "5770385F-C22A-43E0-BF4C-06F5698FFBD9"
+        }
+      },
+      "EventID": 8,
+      "Version": 2,
+      "Level": 4,
+      "Task": 8,
+      "Opcode": 0,
+      "Keywords": "0x8000000000000000",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2026-09-01T07:53:32.1815179Z"
+        }
+      },
+      "EventRecordID": 291297,
+      "Correlation": null,
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 3464,
+          "ThreadID": 4220
+        }
+      },
+      "Channel": "Microsoft-Windows-Sysmon/Operational",
+      "Computer": "SigmaCatchVm",
+      "Security": {
+        "#attributes": {
+          "UserID": "S-1-5-18"
+        }
+      }
+    },
+    "EventData": {
+      "RuleName": "technique_id=T1055,technique_name=Process Injection",
+      "UtcTime": "2026-09-01 07:53:32.159",
+      "SourceProcessGuid": "{570e49aa-847b-6a96-2604-000000001b00}",
+      "SourceProcessId": 580,
+      "SourceImage": "C:\\AtomicRedTeam\\atomics\\T1055\\bin\\x64\\InjectView.exe",
+      "TargetProcessGuid": "{570e49aa-847b-6a96-2504-000000001b00}",
+      "TargetProcessId": 2572,
+      "TargetImage": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsNotepad_11.2606.15.0_x64__8wekyb3d8bbwe\\Notepad\\Notepad.exe",
+      "NewThreadId": 2220,
+      "StartAddress": "0x0000028100010000",
+      "StartModule": "-",
+      "StartFunction": "-",
+      "SourceUser": "SigmaCatchVm\\frack113",
+      "TargetUser": "SigmaCatchVm\\frack113"
+    }
+  }
+}
