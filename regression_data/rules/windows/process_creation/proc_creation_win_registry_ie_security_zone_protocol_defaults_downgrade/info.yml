@@ -1,0 +1,13 @@
+id: 29b16bcf-7711-4ab4-b3ff-8873a4eca4be
+description: N/A
+date: 2026-09-01
+author: frack113
+rule_metadata:
+- id: 10344bb3-7f65-46c2-b915-2d00d47be5b0
+  title: IE ZoneMap Setting Downgraded To MyComputer Zone For HTTP Protocols Via CLI
+regression_tests_info:
+- name: Positive Detection Test
+  type: evtx
+  provider: Microsoft-Windows-Sysmon
+  match_count: 1
+  path: regression_data/rules/windows/process_creation/proc_creation_win_registry_ie_security_zone_protocol_defaults_downgrade/10344bb3-7f65-46c2-b915-2d00d47be5b0.evtx
