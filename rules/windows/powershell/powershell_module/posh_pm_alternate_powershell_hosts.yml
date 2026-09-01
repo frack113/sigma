@@ -49,3 +49,4 @@ falsepositives:
     - MSP Detection Searcher
     - Citrix ConfigSync.ps1
 level: medium
+regression_tests_path: regression_data/rules/windows/powershell/powershell_module/posh_pm_alternate_powershell_hosts/info.yml

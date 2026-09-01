@@ -1,0 +1,13 @@
+id: 7b31f0f9-bc36-45f0-870f-10979171c8f2
+description: N/A
+date: 2026-09-01
+author: frack113
+rule_metadata:
+- id: 64e8e417-c19a-475a-8d19-98ea705394cc
+  title: Alternate PowerShell Hosts - PowerShell Module
+regression_tests_info:
+- name: Positive Detection Test
+  type: evtx
+  provider: Microsoft-Windows-PowerShell
+  match_count: 1
+  path: regression_data/rules/windows/powershell/powershell_module/posh_pm_alternate_powershell_hosts/64e8e417-c19a-475a-8d19-98ea705394cc.evtx

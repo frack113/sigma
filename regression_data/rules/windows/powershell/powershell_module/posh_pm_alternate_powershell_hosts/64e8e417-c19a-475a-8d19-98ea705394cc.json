@@ -1,0 +1,50 @@
+{
+  "Event": {
+    "#attributes": {
+      "xmlns": "http://schemas.microsoft.com/win/2004/08/events/event"
+    },
+    "System": {
+      "Provider": {
+        "#attributes": {
+          "Name": "Microsoft-Windows-PowerShell",
+          "Guid": "A0C1853B-5C40-4B15-8766-3CF1C58F985A"
+        }
+      },
+      "EventID": 4103,
+      "Version": 1,
+      "Level": 4,
+      "Task": 106,
+      "Opcode": 20,
+      "Keywords": "0x0",
+      "TimeCreated": {
+        "#attributes": {
+          "SystemTime": "2026-09-01T07:53:40.7218511Z"
+        }
+      },
+      "EventRecordID": 10557,
+      "Correlation": {
+        "#attributes": {
+          "ActivityID": "11DB7B01-39E0-0000-CECF-E111E039DD01"
+        }
+      },
+      "Execution": {
+        "#attributes": {
+          "ProcessID": 3104,
+          "ThreadID": 5148
+        }
+      },
+      "Channel": "Microsoft-Windows-PowerShell/Operational",
+      "Computer": "SigmaCatchVm",
+      "Security": {
+        "#attributes": {
+          "UserID": "S-1-5-21-4246997345-1000708036-2014123355-1001"
+        }
+      }
+    },
+    "EventData": {
+      "ContextInfo": "Gravité = Informational\n        Nom d’hôte = ConsoleHost\n        Version de l’hôte = 5.1.26100.9168\n        ID d’hôte = 6de9664f-a4c9-44a3-8f46-cc376a53617e\n        Application hôte = \\??\\C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -Command Add-Type -AssemblyName PresentationFramework; [System.Windows.MessageBox]::Show('Atomic Red Team', 'Warning', 'OK', 'Warning'); Start-Process 'notepad.exe'\n        Version du moteur = 5.1.26100.9168\n        ID d’instance d’exécution = 5144965b-a31b-426a-a264-0fdc81a8ed8c\n        ID de pipeline = 1\n        Nom de commande = Add-Type\n        Type de commande = Cmdlet\n        Nom du script = \n        Chemin de la commande = \n        Numéro de séquence = 16\n        Utilisateur = SigmaCatchVm\\frack113\n        Utilisateur connecté = \n        ID d’interpréteur de commandes = Microsoft.PowerShell",
+      "UserData": "",
+      "Payload": "CommandInvocation (Add-Type) : « Add-Type »\nLiaison de paramètre (Add-Type) : nom = « AssemblyName » ; valeur = « PresentationFramework »"
+    }
+  }
+}
