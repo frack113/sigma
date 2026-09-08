@@ -1,0 +1,13 @@
+id: c1140d07-b3d0-4ebc-8298-4855a6ca3452
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: 7f741dcf-fc22-4759-87b4-9ae8376676a2
+      title: Bypass UAC via Fodhelper.exe
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/process_creation/proc_creation_win_uac_bypass_fodhelper/7f741dcf-fc22-4759-87b4-9ae8376676a2.evtx
