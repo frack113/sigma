@@ -1,0 +1,13 @@
+id: 33747f42-de30-46fc-94ee-5741a01478aa
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: b236190c-1c61-41e9-84b3-3fe03f6d76b0
+      title: Potential Regsvr32 Commandline Flag Anomaly
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/process_creation/proc_creation_win_regsvr32_flags_anomaly/b236190c-1c61-41e9-84b3-3fe03f6d76b0.evtx
