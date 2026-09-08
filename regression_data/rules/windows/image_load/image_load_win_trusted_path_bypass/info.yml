@@ -1,0 +1,13 @@
+id: 062eef9f-8bbc-47b8-827c-2b38b199ba12
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: 0cbe38c0-270c-41d9-ab79-6e5a9a669290
+      title: Trusted Path Bypass via Windows Directory Spoofing
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/image_load/image_load_win_trusted_path_bypass/0cbe38c0-270c-41d9-ab79-6e5a9a669290.evtx
