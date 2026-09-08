@@ -1,0 +1,13 @@
+id: 4d97630e-6949-44a3-9bf9-9f4d958ab165
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: 01d2e2a1-5f09-44f7-9fc1-24faa7479b6d
+      title: Uncommon Svchost Parent Process
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/process_creation/proc_creation_win_svchost_uncommon_parent_process/01d2e2a1-5f09-44f7-9fc1-24faa7479b6d.evtx
