@@ -1,0 +1,13 @@
+id: 699c0d78-9e78-43c5-a86d-8268a8897564
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: fe21810c-2a8c-478f-8dd3-5a287fb2a0e0
+      title: Suspicious Scripting in a WMI Consumer
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/wmi_event/sysmon_wmi_susp_scripting/fe21810c-2a8c-478f-8dd3-5a287fb2a0e0.evtx
