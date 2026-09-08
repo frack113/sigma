@@ -1,0 +1,13 @@
+id: dec67ca2-bedf-49db-a599-4886a112a3f3
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: c90362e0-2df3-4e61-94fe-b37615814cb1
+      title: Potential Persistence Via Netsh Helper DLL - Registry
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/registry/registry_set/registry_set_netsh_helper_dll_potential_persistence/c90362e0-2df3-4e61-94fe-b37615814cb1.evtx
