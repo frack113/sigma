@@ -1,0 +1,13 @@
+id: 7927aee5-ee29-41df-9284-f1ad33fe15b2
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: 4281cb20-2994-4580-aa63-c8b86d019934
+      title: Hiding Files with Attrib.exe
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/process_creation/proc_creation_win_attrib_hiding_files/4281cb20-2994-4580-aa63-c8b86d019934.evtx
