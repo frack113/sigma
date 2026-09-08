@@ -1,0 +1,13 @@
+id: 04c07508-f352-46f2-a997-4efa87b172ec
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: 98767d61-b2e8-4d71-b661-e36783ee24c1
+      title: Gzip Archive Decode Via PowerShell
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/process_creation/proc_creation_win_powershell_decode_gzip/98767d61-b2e8-4d71-b661-e36783ee24c1.evtx
