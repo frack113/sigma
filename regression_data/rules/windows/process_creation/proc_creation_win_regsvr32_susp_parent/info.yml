@@ -1,0 +1,13 @@
+id: 12873c53-9ade-4cfb-9336-c911d2824d8b
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: ab37a6ec-6068-432b-a64e-2c7bf95b1d22
+      title: Scripting/CommandLine Process Spawned Regsvr32
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/process_creation/proc_creation_win_regsvr32_susp_parent/ab37a6ec-6068-432b-a64e-2c7bf95b1d22.evtx
