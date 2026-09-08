@@ -1,0 +1,13 @@
+id: 8f56c62f-d6ef-4264-9d29-d0a8c5094e17
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: 52753ea4-b3a0-4365-910d-36cff487b789
+      title: Hijack Legit RDP Session to Move Laterally
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/file/file_event/file_event_win_tsclient_filewrite_startup/52753ea4-b3a0-4365-910d-36cff487b789.evtx
