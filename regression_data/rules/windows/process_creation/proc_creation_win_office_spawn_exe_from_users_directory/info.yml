@@ -1,0 +1,13 @@
+id: fd0eb6f3-406f-43a4-8284-2a6968f93db9
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: aa3a6f94-890e-4e22-b634-ffdfd54792cc
+      title: Suspicious Binary In User Directory Spawned From Office Application
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/process_creation/proc_creation_win_office_spawn_exe_from_users_directory/aa3a6f94-890e-4e22-b634-ffdfd54792cc.evtx
