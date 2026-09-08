@@ -1,0 +1,13 @@
+id: 23c25e9d-52ca-4709-b8b0-cd9bbb54ba3a
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: fc4f4817-0c53-4683-a4ee-b17a64bc1039
+      title: Suspicious Desktopimgdownldr Target File
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/file/file_event/file_event_win_susp_desktopimgdownldr_file/fc4f4817-0c53-4683-a4ee-b17a64bc1039.evtx
