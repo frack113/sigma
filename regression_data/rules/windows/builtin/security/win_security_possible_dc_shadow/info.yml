@@ -1,0 +1,13 @@
+id: bed0d740-a5e1-42d0-b320-669fcd2a6f2e
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: 32e19d25-4aed-4860-a55a-be99cb0bf7ed
+      title: Possible DC Shadow Attack
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Security-Auditing
+      match_count: 1
+      path: regression_data/rules/windows/builtin/security/win_security_possible_dc_shadow/32e19d25-4aed-4860-a55a-be99cb0bf7ed.evtx
