@@ -1,0 +1,13 @@
+id: 55b1a1a8-a5d1-480e-965e-3f115b797728
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: 4b991083-3d0e-44ce-8fc4-b254025d8d4b
+      title: Unusual Parent Process For Cmd.EXE
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/process_creation/proc_creation_win_cmd_unusual_parent/4b991083-3d0e-44ce-8fc4-b254025d8d4b.evtx
