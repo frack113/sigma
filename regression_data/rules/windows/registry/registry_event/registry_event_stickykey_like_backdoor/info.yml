@@ -1,0 +1,13 @@
+id: 44427405-8f5b-47eb-a1f2-7ce4e90cba12
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: baca5663-583c-45f9-b5dc-ea96a22ce542
+      title: Sticky Key Like Backdoor Usage - Registry
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/registry/registry_event/registry_event_stickykey_like_backdoor/baca5663-583c-45f9-b5dc-ea96a22ce542.evtx
