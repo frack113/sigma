@@ -1,0 +1,13 @@
+id: b8cdd798-a224-4ee4-8717-2dea1d1ef828
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: cfeed607-6aa4-4bbd-9627-b637deb723c8
+      title: New or Renamed User Account with '$' Character
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Security-Auditing
+      match_count: 1
+      path: regression_data/rules/windows/builtin/security/win_security_new_or_renamed_user_account_with_dollar_sign/cfeed607-6aa4-4bbd-9627-b637deb723c8.evtx
