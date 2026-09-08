@@ -1,0 +1,13 @@
+id: 40a4fc63-c6a3-4080-8b5a-f03ef39a67dd
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: cbec226f-63d9-4eca-9f52-dfb6652f24df
+      title: Suspicious Process Parents
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/process_creation/proc_creation_win_susp_parents/cbec226f-63d9-4eca-9f52-dfb6652f24df.evtx
