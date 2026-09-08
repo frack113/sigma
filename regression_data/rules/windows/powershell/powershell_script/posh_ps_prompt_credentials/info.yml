@@ -1,0 +1,13 @@
+id: 9e80fc66-4225-4dea-9bec-dc5ed0507fe2
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: ca8b77a9-d499-4095-b793-5d5f330d450e
+      title: PowerShell Credential Prompt
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-PowerShell
+      match_count: 1
+      path: regression_data/rules/windows/powershell/powershell_script/posh_ps_prompt_credentials/ca8b77a9-d499-4095-b793-5d5f330d450e.evtx
