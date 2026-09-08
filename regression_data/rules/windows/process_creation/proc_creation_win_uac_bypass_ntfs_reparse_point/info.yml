@@ -1,0 +1,13 @@
+id: 9a8b41dd-c6f9-48f4-a6af-839fa978a6a7
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: 39ed3c80-e6a1-431b-9df3-911ac53d08a7
+      title: UAC Bypass Using NTFS Reparse Point - Process
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/process_creation/proc_creation_win_uac_bypass_ntfs_reparse_point/39ed3c80-e6a1-431b-9df3-911ac53d08a7.evtx
