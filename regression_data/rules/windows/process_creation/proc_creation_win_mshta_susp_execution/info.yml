@@ -1,0 +1,13 @@
+id: e741494e-9d16-4e35-b4a4-c90ad6c1c56a
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: cc7abbd0-762b-41e3-8a26-57ad50d2eea3
+      title: MSHTA Execution with Suspicious File Extensions
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/process_creation/proc_creation_win_mshta_susp_execution/cc7abbd0-762b-41e3-8a26-57ad50d2eea3.evtx
