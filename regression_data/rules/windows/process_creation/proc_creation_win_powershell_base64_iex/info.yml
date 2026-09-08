@@ -1,0 +1,13 @@
+id: ef7eb0c7-17c6-45b4-9018-12681f8e6101
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: 88f680b8-070e-402c-ae11-d2914f2257f1
+      title: PowerShell Base64 Encoded IEX Cmdlet
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/process_creation/proc_creation_win_powershell_base64_iex/88f680b8-070e-402c-ae11-d2914f2257f1.evtx
