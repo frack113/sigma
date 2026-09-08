@@ -1,0 +1,13 @@
+id: cbd532ed-e443-4aa5-a0f0-4408f6851f96
+description: N/A
+date: 2026-09-08
+author: frack113
+rule_metadata:
+    - id: 69bd9b97-2be2-41b6-9816-fb08757a4d1a
+      title: Potentially Suspicious Execution From Parent Process In Public Folder
+regression_tests_info:
+    - name: Positive Detection Test
+      type: evtx
+      provider: Microsoft-Windows-Sysmon
+      match_count: 1
+      path: regression_data/rules/windows/process_creation/proc_creation_win_susp_execution_from_public_folder_as_parent/69bd9b97-2be2-41b6-9816-fb08757a4d1a.evtx
