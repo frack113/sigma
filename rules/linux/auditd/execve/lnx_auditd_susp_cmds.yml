@@ -34,3 +34,4 @@ detection:
 falsepositives:
     - Admin activity
 level: medium
+regression_tests_path: regression_data/rules/linux/auditd/execve/lnx_auditd_susp_cmds/info.yml
