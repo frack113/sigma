@@ -28,3 +28,4 @@ falsepositives:
     - Legitimate administrative activity
     - Legitimate software, cleaning hist file
 level: medium
+regression_tests_path: regression_data/rules/linux/auditd/execve/lnx_auditd_susp_histfile_operations/info.yml
