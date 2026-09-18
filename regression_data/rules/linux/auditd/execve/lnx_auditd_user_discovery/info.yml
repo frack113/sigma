@@ -1,0 +1,13 @@
+id: 5f686bf7-d5b3-455b-b3b8-39d887184532
+description: N/A
+date: 2026-09-18
+author: frack113
+rule_metadata:
+    - id: 9a0d8ca0-2385-4020-b6c6-cb6153ca56f3
+      title: System Owner or User Discovery - Linux
+regression_tests_info:
+    - name: Positive Detection Test
+      type: ndjson
+      provider: auditd
+      match_count: 1
+      path: regression_data/rules/linux/auditd/execve/lnx_auditd_user_discovery/9a0d8ca0-2385-4020-b6c6-cb6153ca56f3.log
