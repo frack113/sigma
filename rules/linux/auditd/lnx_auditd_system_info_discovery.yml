@@ -45,3 +45,4 @@ detection:
 falsepositives:
     - Likely
 level: low
+regression_tests_path: regression_data/rules/linux/auditd/lnx_auditd_system_info_discovery/info.yml
