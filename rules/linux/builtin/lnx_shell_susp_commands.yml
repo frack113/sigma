@@ -57,3 +57,4 @@ detection:
 falsepositives:
     - Unknown
 level: high
+regression_tests_path: regression_data/rules/linux/builtin/lnx_shell_susp_commands/info.yml
