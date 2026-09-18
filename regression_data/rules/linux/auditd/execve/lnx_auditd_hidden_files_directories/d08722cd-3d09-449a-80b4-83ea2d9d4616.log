@@ -1,0 +1,6 @@
+type=SYSCALL msg=audit(1789713709.144:44634): arch=c000003e syscall=59 success=yes exit=0 a0=563618c0b750 a1=563618bffc60 a2=563618c0f120 a3=563618c0b7c0 items=2 ppid=20725 pid=20749 auid=0 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=382 comm="mkdir" exe="/usr/bin/mkdir" subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 key="exec"ARCH=x86_64 SYSCALL=execve AUID="root" UID="root" GID="root" EUID="root" SUID="root" FSUID="root" EGID="root" SGID="root" FSGID="root"
+type=EXECVE msg=audit(1789713709.144:44634): argc=2 a0="mkdir" a1="/var/tmp/.hidden-directory4"
+type=CWD msg=audit(1789713709.144:44634): cwd="/root"
+type=PATH msg=audit(1789713709.144:44634): item=0 name="/usr/bin/mkdir" inode=97117 dev=fd:00 mode=0100755 ouid=0 ogid=0 rdev=00:00 obj=system_u:object_r:bin_t:s0 nametype=NORMAL cap_fp=0 cap_fi=0 cap_fe=0 cap_fver=0 cap_frootid=0OUID="root" OGID="root"
+type=PATH msg=audit(1789713709.144:44634): item=1 name="/lib64/ld-linux-x86-64.so.2" inode=141 dev=fd:00 mode=0100755 ouid=0 ogid=0 rdev=00:00 obj=system_u:object_r:ld_so_t:s0 nametype=NORMAL cap_fp=0 cap_fi=0 cap_fe=0 cap_fver=0 cap_frootid=0OUID="root" OGID="root"
+type=PROCTITLE msg=audit(1789713709.144:44634): proctitle=6D6B646972002F7661722F746D702F2E68696464656E2D6469726563746F727934
