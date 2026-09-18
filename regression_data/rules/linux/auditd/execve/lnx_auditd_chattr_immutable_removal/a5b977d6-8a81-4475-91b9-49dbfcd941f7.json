@@ -1,0 +1,1 @@
+{"stamp":{"timestamp":1789709619989,"sequence":17981},"type":"EXECVE","fields":{"argc":"3","a0":"\"chattr\"","a1":"\"-i\"","a2":"\"/tmp/test_chattr16\""}}
