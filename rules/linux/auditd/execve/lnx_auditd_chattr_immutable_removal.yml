@@ -27,3 +27,4 @@ simulation:
       name: Remove immutable file attribute
       technique: T1222.002
       atomic_guid: e7469fe2-ad41-4382-8965-99b94dd3c13f
+regression_tests_path: regression_data/rules/linux/auditd/execve/lnx_auditd_chattr_immutable_removal/info.yml
