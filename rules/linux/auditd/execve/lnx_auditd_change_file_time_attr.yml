@@ -40,3 +40,4 @@ simulation:
       name: Modify file timestamps using reference file
       technique: T1070.006
       atomic_guid: 631ea661-d661-44b0-abdb-7a7f3fc08e50
+regression_tests_path: regression_data/rules/linux/auditd/execve/lnx_auditd_change_file_time_attr/info.yml
