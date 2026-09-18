@@ -1,1 +1,0 @@
-{"stamp":{"timestamp":1789709619990,"sequence":17983},"type":"EXECVE","fields":{"argc":"3","a0":"\"chmod\"","a1":"\"777\"","a2":"\"/tmp/test_chmod14\""}}
