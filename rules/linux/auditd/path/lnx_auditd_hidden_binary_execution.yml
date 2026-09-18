@@ -32,3 +32,4 @@ detection:
 falsepositives:
     - Unknown
 level: low
+regression_tests_path: regression_data/rules/linux/auditd/path/lnx_auditd_hidden_binary_execution/info.yml
