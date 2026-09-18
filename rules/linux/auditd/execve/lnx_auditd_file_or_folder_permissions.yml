@@ -23,3 +23,4 @@ detection:
 falsepositives:
     - User interacting with files permissions (normal/daily behaviour).
 level: low
+regression_tests_path: regression_data/rules/linux/auditd/execve/lnx_auditd_file_or_folder_permissions/info.yml
