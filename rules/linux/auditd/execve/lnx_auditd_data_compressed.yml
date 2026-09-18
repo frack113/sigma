@@ -30,3 +30,4 @@ detection:
 falsepositives:
     - Legitimate use of archiving tools by legitimate user.
 level: low
+regression_tests_path: regression_data/rules/linux/auditd/execve/lnx_auditd_data_compressed/info.yml

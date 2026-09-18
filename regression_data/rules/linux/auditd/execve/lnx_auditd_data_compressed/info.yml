@@ -1,0 +1,13 @@
+id: 492534ab-d6c8-4da1-a8e4-3100276147fb
+description: N/A
+date: 2026-09-18
+author: frack113
+rule_metadata:
+    - id: a3b5e3e9-1b49-4119-8b8e-0344a01f21ee
+      title: Data Compressed
+regression_tests_info:
+    - name: Positive Detection Test
+      type: ndjson
+      provider: auditd
+      match_count: 1
+      path: regression_data/rules/linux/auditd/execve/lnx_auditd_data_compressed/a3b5e3e9-1b49-4119-8b8e-0344a01f21ee.log
